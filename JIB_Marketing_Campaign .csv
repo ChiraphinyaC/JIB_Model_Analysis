@@ -1,0 +1,1001 @@
+Campaign_ID,Campaign_Name,Campaign_Type,Channel,Budget,Start_Date,End_Date,Target_Audience,Campaign_Status
+CMP00001,Back to School Laptop Fair #0001,Seasonal Sale,Online Store,218757.33,2025-01-13,2025-02-08,Students & Education,Active
+CMP00002,Back to School Laptop Fair #0002,Seasonal Sale,Online Store,373044.89,2025-12-13,2026-01-08,Students & Education,Active
+CMP00003,New Intel & RTX Launch Expo #0003,Product Launch,Social Media,337478.1,2025-01-17,2025-01-20,Gamers & Creators,Active
+CMP00004,Corporate IT Solution Fair #0004,Brand Awareness,Social Media,139767.53,2025-01-14,2025-02-03,Corporate / Office,Completed
+CMP00005,JIB Online Member Exclusive #0005,Brand Awareness,Line OA,113905.09,2025-08-03,2025-08-13,General Public,Active
+CMP00006,JIB Super Sale Mid-Month #0006,Discount Promotion,Social Media,131931.86,2026-01-24,2026-02-21,General Public,Completed
+CMP00007,DIY PC Builder Special Bonus #0007,Discount Promotion,In-Store Branch,340159.01,2025-03-21,2025-03-30,DIY PC Builders,Active
+CMP00008,Back to School Laptop Fair #0008,Seasonal Sale,Online Store,239744.85,2025-07-14,2025-07-20,Students & Education,Active
+CMP00009,DIY PC Builder Special Bonus #0009,Discount Promotion,In-Store Branch,287838.31,2026-02-18,2026-02-22,DIY PC Builders,Completed
+CMP00010,New Intel & RTX Launch Expo #0010,Product Launch,Social Media,417271.31,2025-02-10,2025-03-02,Gamers & Creators,Completed
+CMP00011,End of Year Tech Clearance #0011,Seasonal Sale,Online Store,496600.14,2025-10-23,2025-11-01,General Public,Active
+CMP00012,Gaming Gear Festival #0012,Product Launch,In-Store Branch,247487.66,2026-01-31,2026-02-12,Gamers & Creators,Upcoming
+CMP00013,Back to School Laptop Fair #0013,Seasonal Sale,Online Store,263352.58,2025-07-14,2025-07-25,Students & Education,Upcoming
+CMP00014,7.7 Mega Double Date #0014,Discount Promotion,Shopee / Lazada,262852.11,2025-07-09,2025-07-23,General Public,Active
+CMP00015,Back to School Laptop Fair #0015,Seasonal Sale,Online Store,192784.66,2025-11-08,2025-12-01,Students & Education,Completed
+CMP00016,7.7 Mega Double Date #0016,Discount Promotion,Shopee / Lazada,280984.35,2025-08-25,2025-09-09,General Public,Upcoming
+CMP00017,JIB Online Member Exclusive #0017,Brand Awareness,Line OA,98913.93,2025-04-23,2025-05-17,General Public,Completed
+CMP00018,JIB Super Sale Mid-Month #0018,Discount Promotion,Social Media,106420.05,2025-04-28,2025-05-27,General Public,Active
+CMP00019,DIY PC Builder Special Bonus #0019,Discount Promotion,In-Store Branch,330021.31,2025-02-03,2025-02-12,DIY PC Builders,Completed
+CMP00020,End of Year Tech Clearance #0020,Seasonal Sale,Online Store,424730.94,2025-04-19,2025-05-12,General Public,Upcoming
+CMP00021,Flash Sale 24 Hours Midnight #0021,Flash Sale,Shopee / Lazada,63963.03,2025-03-15,2025-03-26,General Public,Completed
+CMP00022,JIB Online Member Exclusive #0022,Brand Awareness,Line OA,130150.32,2025-05-15,2025-06-10,General Public,Upcoming
+CMP00023,New Intel & RTX Launch Expo #0023,Product Launch,Social Media,698930.31,2025-07-05,2025-07-15,Gamers & Creators,Active
+CMP00024,Flash Sale 24 Hours Midnight #0024,Flash Sale,Shopee / Lazada,54711.64,2025-02-16,2025-03-15,General Public,Active
+CMP00025,7.7 Mega Double Date #0025,Discount Promotion,Shopee / Lazada,326647.99,2026-02-10,2026-03-06,General Public,Active
+CMP00026,New Intel & RTX Launch Expo #0026,Product Launch,Social Media,511645.74,2025-11-02,2025-11-19,Gamers & Creators,Cancelled
+CMP00027,JIB Super Sale Mid-Month #0027,Discount Promotion,Social Media,122910.35,2025-12-15,2026-01-10,General Public,Upcoming
+CMP00028,DIY PC Builder Special Bonus #0028,Discount Promotion,In-Store Branch,198240.36,2026-01-29,2026-02-21,DIY PC Builders,Active
+CMP00029,7.7 Mega Double Date #0029,Discount Promotion,Shopee / Lazada,486144.78,2025-08-21,2025-08-24,General Public,Upcoming
+CMP00030,DIY PC Builder Special Bonus #0030,Discount Promotion,In-Store Branch,295251.31,2026-05-13,2026-06-01,DIY PC Builders,Completed
+CMP00031,Back to School Laptop Fair #0031,Seasonal Sale,Online Store,224611.2,2026-03-22,2026-04-14,Students & Education,Completed
+CMP00032,Corporate IT Solution Fair #0032,Brand Awareness,Social Media,174782.77,2025-04-12,2025-04-19,Corporate / Office,Active
+CMP00033,JIB Online Member Exclusive #0033,Brand Awareness,Line OA,131873.35,2026-04-16,2026-04-19,General Public,Completed
+CMP00034,Back to School Laptop Fair #0034,Seasonal Sale,Online Store,369680.47,2026-04-21,2026-05-05,Students & Education,Upcoming
+CMP00035,DIY PC Builder Special Bonus #0035,Discount Promotion,In-Store Branch,175400.47,2025-05-03,2025-05-07,DIY PC Builders,Completed
+CMP00036,Back to School Laptop Fair #0036,Seasonal Sale,Online Store,271497.62,2025-02-13,2025-03-11,Students & Education,Active
+CMP00037,JIB Online Member Exclusive #0037,Brand Awareness,Line OA,75406.98,2026-01-28,2026-02-04,General Public,Completed
+CMP00038,JIB Online Member Exclusive #0038,Brand Awareness,Line OA,123320.85,2025-03-26,2025-04-06,General Public,Completed
+CMP00039,Gaming Gear Festival #0039,Product Launch,In-Store Branch,208395.08,2026-04-21,2026-05-11,Gamers & Creators,Completed
+CMP00040,DIY PC Builder Special Bonus #0040,Discount Promotion,In-Store Branch,269471.95,2025-07-24,2025-08-17,DIY PC Builders,Completed
+CMP00041,JIB Online Member Exclusive #0041,Brand Awareness,Line OA,89748.67,2025-08-20,2025-08-26,General Public,Active
+CMP00042,JIB Super Sale Mid-Month #0042,Discount Promotion,Social Media,146022.95,2025-10-29,2025-11-18,General Public,Active
+CMP00043,Back to School Laptop Fair #0043,Seasonal Sale,Online Store,164718.44,2025-12-29,2026-01-21,Students & Education,Active
+CMP00044,JIB Super Sale Mid-Month #0044,Discount Promotion,Social Media,114171.47,2026-03-17,2026-03-30,General Public,Active
+CMP00045,Flash Sale 24 Hours Midnight #0045,Flash Sale,Shopee / Lazada,63231.18,2025-04-20,2025-05-10,General Public,Upcoming
+CMP00046,Corporate IT Solution Fair #0046,Brand Awareness,Social Media,148599.45,2025-10-23,2025-11-10,Corporate / Office,Completed
+CMP00047,New Intel & RTX Launch Expo #0047,Product Launch,Social Media,338772.33,2025-04-08,2025-04-14,Gamers & Creators,Completed
+CMP00048,New Intel & RTX Launch Expo #0048,Product Launch,Social Media,645534.7,2025-07-30,2025-08-16,Gamers & Creators,Active
+CMP00049,Back to School Laptop Fair #0049,Seasonal Sale,Online Store,332053.4,2025-02-01,2025-02-16,Students & Education,Upcoming
+CMP00050,Back to School Laptop Fair #0050,Seasonal Sale,Online Store,197552.23,2025-05-08,2025-05-17,Students & Education,Completed
+CMP00051,New Intel & RTX Launch Expo #0051,Product Launch,Social Media,485051.23,2025-04-04,2025-04-15,Gamers & Creators,Upcoming
+CMP00052,Back to School Laptop Fair #0052,Seasonal Sale,Online Store,365337.28,2025-08-15,2025-09-12,Students & Education,Completed
+CMP00053,JIB Super Sale Mid-Month #0053,Discount Promotion,Social Media,267205.52,2025-11-30,2025-12-20,General Public,Cancelled
+CMP00054,Gaming Gear Festival #0054,Product Launch,In-Store Branch,162558.99,2025-03-27,2025-04-12,Gamers & Creators,Active
+CMP00055,New Intel & RTX Launch Expo #0055,Product Launch,Social Media,365854.85,2026-04-08,2026-04-12,Gamers & Creators,Active
+CMP00056,New Intel & RTX Launch Expo #0056,Product Launch,Social Media,614051.74,2025-05-16,2025-06-13,Gamers & Creators,Active
+CMP00057,JIB Online Member Exclusive #0057,Brand Awareness,Line OA,118400.57,2025-12-05,2025-12-30,General Public,Active
+CMP00058,Gaming Gear Festival #0058,Product Launch,In-Store Branch,178460.65,2026-05-11,2026-05-15,Gamers & Creators,Completed
+CMP00059,End of Year Tech Clearance #0059,Seasonal Sale,Online Store,454462.16,2025-01-30,2025-02-03,General Public,Completed
+CMP00060,JIB Online Member Exclusive #0060,Brand Awareness,Line OA,175293.47,2025-03-22,2025-03-26,General Public,Active
+CMP00061,7.7 Mega Double Date #0061,Discount Promotion,Shopee / Lazada,220388.26,2025-02-05,2025-02-27,General Public,Upcoming
+CMP00062,New Intel & RTX Launch Expo #0062,Product Launch,Social Media,398486.14,2025-03-03,2025-03-24,Gamers & Creators,Completed
+CMP00063,Corporate IT Solution Fair #0063,Brand Awareness,Social Media,231474.63,2025-02-11,2025-02-27,Corporate / Office,Completed
+CMP00064,End of Year Tech Clearance #0064,Seasonal Sale,Online Store,321490.72,2026-04-24,2026-05-05,General Public,Completed
+CMP00065,Gaming Gear Festival #0065,Product Launch,In-Store Branch,102249.31,2025-05-16,2025-05-31,Gamers & Creators,Completed
+CMP00066,Flash Sale 24 Hours Midnight #0066,Flash Sale,Shopee / Lazada,143573.43,2025-06-11,2025-07-08,General Public,Active
+CMP00067,Corporate IT Solution Fair #0067,Brand Awareness,Social Media,114652.14,2025-10-16,2025-10-22,Corporate / Office,Active
+CMP00068,DIY PC Builder Special Bonus #0068,Discount Promotion,In-Store Branch,322598.76,2025-03-09,2025-03-23,DIY PC Builders,Upcoming
+CMP00069,End of Year Tech Clearance #0069,Seasonal Sale,Online Store,403364.6,2025-05-26,2025-06-03,General Public,Completed
+CMP00070,DIY PC Builder Special Bonus #0070,Discount Promotion,In-Store Branch,270414.55,2025-11-10,2025-12-08,DIY PC Builders,Active
+CMP00071,JIB Online Member Exclusive #0071,Brand Awareness,Line OA,72430.38,2025-06-03,2025-06-27,General Public,Upcoming
+CMP00072,DIY PC Builder Special Bonus #0072,Discount Promotion,In-Store Branch,290755.84,2025-03-01,2025-03-07,DIY PC Builders,Active
+CMP00073,DIY PC Builder Special Bonus #0073,Discount Promotion,In-Store Branch,285050.8,2025-11-06,2025-11-15,DIY PC Builders,Active
+CMP00074,DIY PC Builder Special Bonus #0074,Discount Promotion,In-Store Branch,177757.89,2025-09-16,2025-10-04,DIY PC Builders,Upcoming
+CMP00075,JIB Super Sale Mid-Month #0075,Discount Promotion,Social Media,184715.15,2025-02-17,2025-03-12,General Public,Active
+CMP00076,JIB Super Sale Mid-Month #0076,Discount Promotion,Social Media,126163.93,2025-06-20,2025-07-17,General Public,Cancelled
+CMP00077,7.7 Mega Double Date #0077,Discount Promotion,Shopee / Lazada,365504.13,2026-01-15,2026-02-01,General Public,Completed
+CMP00078,JIB Super Sale Mid-Month #0078,Discount Promotion,Social Media,289010.19,2025-02-27,2025-03-04,General Public,Completed
+CMP00079,7.7 Mega Double Date #0079,Discount Promotion,Shopee / Lazada,450378.51,2025-10-07,2025-10-11,General Public,Completed
+CMP00080,7.7 Mega Double Date #0080,Discount Promotion,Shopee / Lazada,212548.66,2025-08-09,2025-08-16,General Public,Active
+CMP00081,JIB Super Sale Mid-Month #0081,Discount Promotion,Social Media,142015.31,2026-04-06,2026-04-20,General Public,Active
+CMP00082,Back to School Laptop Fair #0082,Seasonal Sale,Online Store,289970.88,2025-07-01,2025-07-28,Students & Education,Upcoming
+CMP00083,Corporate IT Solution Fair #0083,Brand Awareness,Social Media,285152.76,2026-01-19,2026-01-26,Corporate / Office,Active
+CMP00084,7.7 Mega Double Date #0084,Discount Promotion,Shopee / Lazada,443231.52,2026-05-15,2026-06-12,General Public,Upcoming
+CMP00085,JIB Super Sale Mid-Month #0085,Discount Promotion,Social Media,284897.46,2025-04-02,2025-04-28,General Public,Completed
+CMP00086,New Intel & RTX Launch Expo #0086,Product Launch,Social Media,645625.61,2026-02-15,2026-03-11,Gamers & Creators,Upcoming
+CMP00087,DIY PC Builder Special Bonus #0087,Discount Promotion,In-Store Branch,281293.98,2025-03-23,2025-04-20,DIY PC Builders,Active
+CMP00088,JIB Super Sale Mid-Month #0088,Discount Promotion,Social Media,144486.74,2026-03-16,2026-04-03,General Public,Upcoming
+CMP00089,Flash Sale 24 Hours Midnight #0089,Flash Sale,Shopee / Lazada,132053.64,2025-06-29,2025-07-11,General Public,Upcoming
+CMP00090,Gaming Gear Festival #0090,Product Launch,In-Store Branch,112832.06,2025-01-13,2025-02-06,Gamers & Creators,Active
+CMP00091,Back to School Laptop Fair #0091,Seasonal Sale,Online Store,219781.25,2026-05-11,2026-06-07,Students & Education,Completed
+CMP00092,New Intel & RTX Launch Expo #0092,Product Launch,Social Media,514486.29,2025-12-14,2026-01-12,Gamers & Creators,Upcoming
+CMP00093,Back to School Laptop Fair #0093,Seasonal Sale,Online Store,194641.95,2026-03-26,2026-04-06,Students & Education,Cancelled
+CMP00094,DIY PC Builder Special Bonus #0094,Discount Promotion,In-Store Branch,257211.39,2025-01-20,2025-01-26,DIY PC Builders,Active
+CMP00095,End of Year Tech Clearance #0095,Seasonal Sale,Online Store,594482.55,2025-08-12,2025-09-03,General Public,Active
+CMP00096,Corporate IT Solution Fair #0096,Brand Awareness,Social Media,108877.31,2025-04-08,2025-04-19,Corporate / Office,Completed
+CMP00097,JIB Online Member Exclusive #0097,Brand Awareness,Line OA,124614.24,2026-04-19,2026-05-17,General Public,Completed
+CMP00098,Gaming Gear Festival #0098,Product Launch,In-Store Branch,91895.55,2025-07-06,2025-07-22,Gamers & Creators,Completed
+CMP00099,End of Year Tech Clearance #0099,Seasonal Sale,Online Store,482185.62,2025-11-16,2025-11-29,General Public,Active
+CMP00100,DIY PC Builder Special Bonus #0100,Discount Promotion,In-Store Branch,273385.37,2025-09-17,2025-09-29,DIY PC Builders,Active
+CMP00101,DIY PC Builder Special Bonus #0101,Discount Promotion,In-Store Branch,164123.22,2025-10-11,2025-10-18,DIY PC Builders,Completed
+CMP00102,New Intel & RTX Launch Expo #0102,Product Launch,Social Media,661122.22,2025-12-13,2026-01-08,Gamers & Creators,Completed
+CMP00103,DIY PC Builder Special Bonus #0103,Discount Promotion,In-Store Branch,311756.79,2025-07-27,2025-08-16,DIY PC Builders,Active
+CMP00104,Gaming Gear Festival #0104,Product Launch,In-Store Branch,178597.41,2025-08-09,2025-09-06,Gamers & Creators,Completed
+CMP00105,Flash Sale 24 Hours Midnight #0105,Flash Sale,Shopee / Lazada,117562.72,2025-08-15,2025-09-01,General Public,Completed
+CMP00106,7.7 Mega Double Date #0106,Discount Promotion,Shopee / Lazada,285135.92,2025-12-04,2025-12-09,General Public,Completed
+CMP00107,Corporate IT Solution Fair #0107,Brand Awareness,Social Media,263684.69,2025-06-21,2025-06-26,Corporate / Office,Completed
+CMP00108,DIY PC Builder Special Bonus #0108,Discount Promotion,In-Store Branch,165799.88,2025-04-26,2025-05-24,DIY PC Builders,Active
+CMP00109,Gaming Gear Festival #0109,Product Launch,In-Store Branch,224455.41,2025-09-01,2025-09-23,Gamers & Creators,Active
+CMP00110,New Intel & RTX Launch Expo #0110,Product Launch,Social Media,530268.36,2026-03-30,2026-04-22,Gamers & Creators,Completed
+CMP00111,New Intel & RTX Launch Expo #0111,Product Launch,Social Media,397593.78,2025-09-11,2025-09-26,Gamers & Creators,Completed
+CMP00112,JIB Super Sale Mid-Month #0112,Discount Promotion,Social Media,272088.11,2026-04-03,2026-04-30,General Public,Upcoming
+CMP00113,New Intel & RTX Launch Expo #0113,Product Launch,Social Media,621643.94,2025-04-23,2025-05-01,Gamers & Creators,Completed
+CMP00114,Flash Sale 24 Hours Midnight #0114,Flash Sale,Shopee / Lazada,74919.83,2025-01-26,2025-02-15,General Public,Upcoming
+CMP00115,Flash Sale 24 Hours Midnight #0115,Flash Sale,Shopee / Lazada,96464.32,2025-03-10,2025-04-07,General Public,Completed
+CMP00116,JIB Online Member Exclusive #0116,Brand Awareness,Line OA,174004.75,2025-11-01,2025-11-14,General Public,Upcoming
+CMP00117,Corporate IT Solution Fair #0117,Brand Awareness,Social Media,278404.06,2026-02-22,2026-03-20,Corporate / Office,Completed
+CMP00118,JIB Online Member Exclusive #0118,Brand Awareness,Line OA,149238.65,2025-08-17,2025-08-25,General Public,Completed
+CMP00119,DIY PC Builder Special Bonus #0119,Discount Promotion,In-Store Branch,313168.46,2026-01-20,2026-01-30,DIY PC Builders,Active
+CMP00120,JIB Online Member Exclusive #0120,Brand Awareness,Line OA,88709.5,2025-09-06,2025-09-29,General Public,Completed
+CMP00121,DIY PC Builder Special Bonus #0121,Discount Promotion,In-Store Branch,197244.93,2025-05-01,2025-05-12,DIY PC Builders,Upcoming
+CMP00122,Back to School Laptop Fair #0122,Seasonal Sale,Online Store,207815.37,2025-03-12,2025-03-19,Students & Education,Completed
+CMP00123,Gaming Gear Festival #0123,Product Launch,In-Store Branch,149291.89,2025-02-02,2025-02-18,Gamers & Creators,Completed
+CMP00124,New Intel & RTX Launch Expo #0124,Product Launch,Social Media,633156.47,2025-02-01,2025-02-10,Gamers & Creators,Active
+CMP00125,Corporate IT Solution Fair #0125,Brand Awareness,Social Media,103906.39,2026-04-30,2026-05-25,Corporate / Office,Upcoming
+CMP00126,Corporate IT Solution Fair #0126,Brand Awareness,Social Media,101179.22,2025-07-14,2025-08-01,Corporate / Office,Active
+CMP00127,New Intel & RTX Launch Expo #0127,Product Launch,Social Media,467608.51,2026-03-13,2026-04-11,Gamers & Creators,Completed
+CMP00128,JIB Online Member Exclusive #0128,Brand Awareness,Line OA,167737.36,2026-02-14,2026-03-08,General Public,Completed
+CMP00129,DIY PC Builder Special Bonus #0129,Discount Promotion,In-Store Branch,126675.71,2025-08-12,2025-08-30,DIY PC Builders,Active
+CMP00130,New Intel & RTX Launch Expo #0130,Product Launch,Social Media,636202.27,2026-01-06,2026-01-14,Gamers & Creators,Upcoming
+CMP00131,Corporate IT Solution Fair #0131,Brand Awareness,Social Media,281385.77,2025-10-01,2025-10-04,Corporate / Office,Completed
+CMP00132,JIB Super Sale Mid-Month #0132,Discount Promotion,Social Media,185722.55,2025-02-12,2025-03-07,General Public,Upcoming
+CMP00133,7.7 Mega Double Date #0133,Discount Promotion,Shopee / Lazada,313731.16,2025-01-26,2025-02-06,General Public,Active
+CMP00134,End of Year Tech Clearance #0134,Seasonal Sale,Online Store,557874.0,2025-06-22,2025-07-19,General Public,Active
+CMP00135,New Intel & RTX Launch Expo #0135,Product Launch,Social Media,332762.49,2025-05-10,2025-06-08,Gamers & Creators,Active
+CMP00136,JIB Online Member Exclusive #0136,Brand Awareness,Line OA,86906.66,2025-01-27,2025-02-10,General Public,Active
+CMP00137,JIB Super Sale Mid-Month #0137,Discount Promotion,Social Media,289922.35,2026-01-22,2026-01-25,General Public,Active
+CMP00138,JIB Super Sale Mid-Month #0138,Discount Promotion,Social Media,147708.99,2025-11-15,2025-11-22,General Public,Completed
+CMP00139,Back to School Laptop Fair #0139,Seasonal Sale,Online Store,266258.5,2025-10-16,2025-10-25,Students & Education,Active
+CMP00140,End of Year Tech Clearance #0140,Seasonal Sale,Online Store,462536.62,2025-03-27,2025-04-18,General Public,Completed
+CMP00141,Back to School Laptop Fair #0141,Seasonal Sale,Online Store,190941.45,2026-02-03,2026-03-04,Students & Education,Active
+CMP00142,Corporate IT Solution Fair #0142,Brand Awareness,Social Media,215159.35,2025-01-14,2025-01-26,Corporate / Office,Upcoming
+CMP00143,New Intel & RTX Launch Expo #0143,Product Launch,Social Media,379331.91,2025-07-23,2025-08-17,Gamers & Creators,Completed
+CMP00144,Gaming Gear Festival #0144,Product Launch,In-Store Branch,211321.75,2025-02-22,2025-03-19,Gamers & Creators,Upcoming
+CMP00145,Corporate IT Solution Fair #0145,Brand Awareness,Social Media,259245.44,2026-02-17,2026-02-23,Corporate / Office,Completed
+CMP00146,JIB Super Sale Mid-Month #0146,Discount Promotion,Social Media,185675.6,2025-06-27,2025-07-17,General Public,Active
+CMP00147,JIB Online Member Exclusive #0147,Brand Awareness,Line OA,61518.26,2025-11-28,2025-12-11,General Public,Completed
+CMP00148,Flash Sale 24 Hours Midnight #0148,Flash Sale,Shopee / Lazada,146078.76,2025-02-24,2025-03-12,General Public,Completed
+CMP00149,Flash Sale 24 Hours Midnight #0149,Flash Sale,Shopee / Lazada,93548.71,2025-12-29,2026-01-05,General Public,Completed
+CMP00150,DIY PC Builder Special Bonus #0150,Discount Promotion,In-Store Branch,331512.06,2025-11-12,2025-12-10,DIY PC Builders,Completed
+CMP00151,Flash Sale 24 Hours Midnight #0151,Flash Sale,Shopee / Lazada,123102.62,2025-08-12,2025-09-10,General Public,Active
+CMP00152,Gaming Gear Festival #0152,Product Launch,In-Store Branch,127417.8,2026-03-02,2026-03-07,Gamers & Creators,Completed
+CMP00153,Flash Sale 24 Hours Midnight #0153,Flash Sale,Shopee / Lazada,116818.85,2025-10-19,2025-11-10,General Public,Active
+CMP00154,Flash Sale 24 Hours Midnight #0154,Flash Sale,Shopee / Lazada,68183.99,2026-03-12,2026-03-25,General Public,Active
+CMP00155,DIY PC Builder Special Bonus #0155,Discount Promotion,In-Store Branch,322473.6,2025-06-24,2025-07-05,DIY PC Builders,Completed
+CMP00156,DIY PC Builder Special Bonus #0156,Discount Promotion,In-Store Branch,238824.27,2025-10-12,2025-10-15,DIY PC Builders,Active
+CMP00157,Gaming Gear Festival #0157,Product Launch,In-Store Branch,163058.23,2026-01-04,2026-01-20,Gamers & Creators,Completed
+CMP00158,Flash Sale 24 Hours Midnight #0158,Flash Sale,Shopee / Lazada,99082.13,2025-11-27,2025-12-22,General Public,Completed
+CMP00159,Back to School Laptop Fair #0159,Seasonal Sale,Online Store,251100.28,2025-05-31,2025-06-10,Students & Education,Active
+CMP00160,Corporate IT Solution Fair #0160,Brand Awareness,Social Media,210694.59,2025-07-08,2025-07-26,Corporate / Office,Active
+CMP00161,JIB Online Member Exclusive #0161,Brand Awareness,Line OA,144342.59,2025-06-19,2025-07-03,General Public,Active
+CMP00162,DIY PC Builder Special Bonus #0162,Discount Promotion,In-Store Branch,285895.4,2025-04-29,2025-05-05,DIY PC Builders,Active
+CMP00163,JIB Online Member Exclusive #0163,Brand Awareness,Line OA,142819.63,2026-05-02,2026-05-29,General Public,Active
+CMP00164,Flash Sale 24 Hours Midnight #0164,Flash Sale,Shopee / Lazada,108958.69,2025-05-22,2025-06-17,General Public,Completed
+CMP00165,Corporate IT Solution Fair #0165,Brand Awareness,Social Media,266525.67,2025-05-25,2025-05-31,Corporate / Office,Active
+CMP00166,End of Year Tech Clearance #0166,Seasonal Sale,Online Store,254951.93,2025-04-02,2025-04-14,General Public,Completed
+CMP00167,DIY PC Builder Special Bonus #0167,Discount Promotion,In-Store Branch,247272.56,2025-01-24,2025-01-28,DIY PC Builders,Completed
+CMP00168,7.7 Mega Double Date #0168,Discount Promotion,Shopee / Lazada,425837.65,2025-11-23,2025-12-23,General Public,Active
+CMP00169,JIB Super Sale Mid-Month #0169,Discount Promotion,Social Media,193879.39,2025-10-21,2025-11-02,General Public,Completed
+CMP00170,7.7 Mega Double Date #0170,Discount Promotion,Shopee / Lazada,275743.52,2026-05-10,2026-05-14,General Public,Upcoming
+CMP00171,Back to School Laptop Fair #0171,Seasonal Sale,Online Store,250176.86,2026-02-25,2026-03-02,Students & Education,Active
+CMP00172,JIB Super Sale Mid-Month #0172,Discount Promotion,Social Media,262228.42,2025-03-19,2025-03-26,General Public,Upcoming
+CMP00173,Back to School Laptop Fair #0173,Seasonal Sale,Online Store,289518.26,2025-05-08,2025-05-14,Students & Education,Completed
+CMP00174,Corporate IT Solution Fair #0174,Brand Awareness,Social Media,145137.43,2026-02-09,2026-03-03,Corporate / Office,Completed
+CMP00175,Flash Sale 24 Hours Midnight #0175,Flash Sale,Shopee / Lazada,79735.31,2026-04-11,2026-04-28,General Public,Completed
+CMP00176,New Intel & RTX Launch Expo #0176,Product Launch,Social Media,548410.93,2025-06-06,2025-06-27,Gamers & Creators,Completed
+CMP00177,Back to School Laptop Fair #0177,Seasonal Sale,Online Store,201946.98,2026-05-01,2026-05-28,Students & Education,Active
+CMP00178,Back to School Laptop Fair #0178,Seasonal Sale,Online Store,193453.39,2025-03-22,2025-04-01,Students & Education,Active
+CMP00179,JIB Super Sale Mid-Month #0179,Discount Promotion,Social Media,237874.23,2025-07-29,2025-08-15,General Public,Completed
+CMP00180,JIB Super Sale Mid-Month #0180,Discount Promotion,Social Media,241391.17,2025-04-29,2025-05-11,General Public,Completed
+CMP00181,Flash Sale 24 Hours Midnight #0181,Flash Sale,Shopee / Lazada,73342.38,2025-02-06,2025-03-02,General Public,Active
+CMP00182,Corporate IT Solution Fair #0182,Brand Awareness,Social Media,286733.69,2025-12-05,2026-01-02,Corporate / Office,Completed
+CMP00183,JIB Online Member Exclusive #0183,Brand Awareness,Line OA,77878.73,2025-04-26,2025-05-19,General Public,Active
+CMP00184,7.7 Mega Double Date #0184,Discount Promotion,Shopee / Lazada,249776.84,2025-02-06,2025-02-10,General Public,Active
+CMP00185,Corporate IT Solution Fair #0185,Brand Awareness,Social Media,187830.69,2026-04-17,2026-04-29,Corporate / Office,Completed
+CMP00186,DIY PC Builder Special Bonus #0186,Discount Promotion,In-Store Branch,336815.54,2025-12-25,2026-01-09,DIY PC Builders,Completed
+CMP00187,Flash Sale 24 Hours Midnight #0187,Flash Sale,Shopee / Lazada,109803.67,2025-08-13,2025-08-18,General Public,Upcoming
+CMP00188,End of Year Tech Clearance #0188,Seasonal Sale,Online Store,259052.71,2025-11-06,2025-11-17,General Public,Active
+CMP00189,Corporate IT Solution Fair #0189,Brand Awareness,Social Media,299914.48,2025-10-28,2025-10-31,Corporate / Office,Completed
+CMP00190,DIY PC Builder Special Bonus #0190,Discount Promotion,In-Store Branch,295515.07,2025-10-23,2025-10-27,DIY PC Builders,Active
+CMP00191,JIB Online Member Exclusive #0191,Brand Awareness,Line OA,169928.73,2025-11-30,2025-12-17,General Public,Active
+CMP00192,Corporate IT Solution Fair #0192,Brand Awareness,Social Media,262848.99,2025-08-12,2025-09-04,Corporate / Office,Cancelled
+CMP00193,Flash Sale 24 Hours Midnight #0193,Flash Sale,Shopee / Lazada,83330.84,2025-06-28,2025-07-14,General Public,Completed
+CMP00194,7.7 Mega Double Date #0194,Discount Promotion,Shopee / Lazada,408102.1,2025-06-18,2025-07-04,General Public,Active
+CMP00195,New Intel & RTX Launch Expo #0195,Product Launch,Social Media,520038.64,2026-02-21,2026-03-20,Gamers & Creators,Completed
+CMP00196,End of Year Tech Clearance #0196,Seasonal Sale,Online Store,290572.56,2025-05-10,2025-05-23,General Public,Completed
+CMP00197,JIB Online Member Exclusive #0197,Brand Awareness,Line OA,138919.25,2026-02-27,2026-03-02,General Public,Completed
+CMP00198,New Intel & RTX Launch Expo #0198,Product Launch,Social Media,507375.76,2025-01-28,2025-02-06,Gamers & Creators,Completed
+CMP00199,Flash Sale 24 Hours Midnight #0199,Flash Sale,Shopee / Lazada,125999.05,2025-11-17,2025-12-04,General Public,Active
+CMP00200,JIB Online Member Exclusive #0200,Brand Awareness,Line OA,112573.93,2025-03-09,2025-03-21,General Public,Completed
+CMP00201,Back to School Laptop Fair #0201,Seasonal Sale,Online Store,302217.92,2025-01-15,2025-02-07,Students & Education,Active
+CMP00202,7.7 Mega Double Date #0202,Discount Promotion,Shopee / Lazada,204102.34,2025-06-09,2025-06-29,General Public,Completed
+CMP00203,Gaming Gear Festival #0203,Product Launch,In-Store Branch,158446.14,2026-03-07,2026-03-13,Gamers & Creators,Active
+CMP00204,7.7 Mega Double Date #0204,Discount Promotion,Shopee / Lazada,287558.47,2025-09-13,2025-10-08,General Public,Completed
+CMP00205,New Intel & RTX Launch Expo #0205,Product Launch,Social Media,692097.85,2026-03-04,2026-03-22,Gamers & Creators,Active
+CMP00206,JIB Online Member Exclusive #0206,Brand Awareness,Line OA,82873.24,2025-03-16,2025-03-31,General Public,Completed
+CMP00207,7.7 Mega Double Date #0207,Discount Promotion,Shopee / Lazada,282874.22,2026-03-19,2026-03-24,General Public,Completed
+CMP00208,New Intel & RTX Launch Expo #0208,Product Launch,Social Media,503095.07,2025-06-24,2025-07-22,Gamers & Creators,Upcoming
+CMP00209,DIY PC Builder Special Bonus #0209,Discount Promotion,In-Store Branch,312619.46,2026-01-07,2026-01-19,DIY PC Builders,Completed
+CMP00210,Flash Sale 24 Hours Midnight #0210,Flash Sale,Shopee / Lazada,94654.74,2026-03-20,2026-03-27,General Public,Completed
+CMP00211,End of Year Tech Clearance #0211,Seasonal Sale,Online Store,440200.52,2025-10-10,2025-11-06,General Public,Completed
+CMP00212,End of Year Tech Clearance #0212,Seasonal Sale,Online Store,593271.12,2026-03-22,2026-03-31,General Public,Active
+CMP00213,New Intel & RTX Launch Expo #0213,Product Launch,Social Media,610217.79,2025-04-30,2025-05-30,Gamers & Creators,Active
+CMP00214,Flash Sale 24 Hours Midnight #0214,Flash Sale,Shopee / Lazada,88123.11,2025-12-28,2026-01-25,General Public,Cancelled
+CMP00215,7.7 Mega Double Date #0215,Discount Promotion,Shopee / Lazada,237873.88,2025-09-11,2025-09-15,General Public,Cancelled
+CMP00216,End of Year Tech Clearance #0216,Seasonal Sale,Online Store,555966.63,2026-03-22,2026-03-28,General Public,Completed
+CMP00217,JIB Online Member Exclusive #0217,Brand Awareness,Line OA,61841.71,2026-04-12,2026-04-29,General Public,Active
+CMP00218,7.7 Mega Double Date #0218,Discount Promotion,Shopee / Lazada,434457.59,2025-02-08,2025-02-26,General Public,Active
+CMP00219,Corporate IT Solution Fair #0219,Brand Awareness,Social Media,229967.33,2025-12-21,2026-01-05,Corporate / Office,Upcoming
+CMP00220,JIB Online Member Exclusive #0220,Brand Awareness,Line OA,135215.9,2025-07-14,2025-07-27,General Public,Upcoming
+CMP00221,Flash Sale 24 Hours Midnight #0221,Flash Sale,Shopee / Lazada,53589.91,2026-03-23,2026-04-12,General Public,Active
+CMP00222,DIY PC Builder Special Bonus #0222,Discount Promotion,In-Store Branch,140787.25,2025-04-27,2025-05-23,DIY PC Builders,Cancelled
+CMP00223,Back to School Laptop Fair #0223,Seasonal Sale,Online Store,323500.29,2025-08-16,2025-08-24,Students & Education,Upcoming
+CMP00224,JIB Super Sale Mid-Month #0224,Discount Promotion,Social Media,111223.85,2025-06-16,2025-07-14,General Public,Active
+CMP00225,New Intel & RTX Launch Expo #0225,Product Launch,Social Media,512466.53,2025-03-16,2025-03-26,Gamers & Creators,Completed
+CMP00226,7.7 Mega Double Date #0226,Discount Promotion,Shopee / Lazada,223690.51,2025-03-29,2025-04-06,General Public,Upcoming
+CMP00227,Corporate IT Solution Fair #0227,Brand Awareness,Social Media,199533.45,2025-12-16,2025-12-26,Corporate / Office,Completed
+CMP00228,Gaming Gear Festival #0228,Product Launch,In-Store Branch,123176.15,2025-08-25,2025-09-17,Gamers & Creators,Active
+CMP00229,JIB Super Sale Mid-Month #0229,Discount Promotion,Social Media,193050.65,2026-04-06,2026-05-04,General Public,Active
+CMP00230,JIB Online Member Exclusive #0230,Brand Awareness,Line OA,113007.57,2025-03-22,2025-03-27,General Public,Active
+CMP00231,Corporate IT Solution Fair #0231,Brand Awareness,Social Media,292405.81,2025-06-03,2025-06-26,Corporate / Office,Completed
+CMP00232,Flash Sale 24 Hours Midnight #0232,Flash Sale,Shopee / Lazada,69921.7,2026-03-09,2026-03-21,General Public,Active
+CMP00233,Flash Sale 24 Hours Midnight #0233,Flash Sale,Shopee / Lazada,88136.43,2025-02-24,2025-03-06,General Public,Active
+CMP00234,DIY PC Builder Special Bonus #0234,Discount Promotion,In-Store Branch,125046.11,2025-12-25,2026-01-06,DIY PC Builders,Upcoming
+CMP00235,New Intel & RTX Launch Expo #0235,Product Launch,Social Media,526371.61,2025-05-21,2025-05-24,Gamers & Creators,Completed
+CMP00236,JIB Super Sale Mid-Month #0236,Discount Promotion,Social Media,249034.43,2026-04-12,2026-05-04,General Public,Upcoming
+CMP00237,DIY PC Builder Special Bonus #0237,Discount Promotion,In-Store Branch,172927.23,2026-02-02,2026-03-02,DIY PC Builders,Upcoming
+CMP00238,Gaming Gear Festival #0238,Product Launch,In-Store Branch,185551.5,2025-11-22,2025-12-01,Gamers & Creators,Completed
+CMP00239,7.7 Mega Double Date #0239,Discount Promotion,Shopee / Lazada,471021.11,2025-11-18,2025-11-24,General Public,Completed
+CMP00240,DIY PC Builder Special Bonus #0240,Discount Promotion,In-Store Branch,127673.84,2026-02-08,2026-02-25,DIY PC Builders,Active
+CMP00241,7.7 Mega Double Date #0241,Discount Promotion,Shopee / Lazada,298015.74,2025-02-16,2025-02-28,General Public,Completed
+CMP00242,Gaming Gear Festival #0242,Product Launch,In-Store Branch,171699.32,2025-03-09,2025-04-06,Gamers & Creators,Cancelled
+CMP00243,JIB Online Member Exclusive #0243,Brand Awareness,Line OA,159656.71,2025-09-14,2025-09-25,General Public,Active
+CMP00244,Flash Sale 24 Hours Midnight #0244,Flash Sale,Shopee / Lazada,79514.14,2026-05-11,2026-06-08,General Public,Upcoming
+CMP00245,Back to School Laptop Fair #0245,Seasonal Sale,Online Store,185189.25,2025-08-28,2025-09-02,Students & Education,Cancelled
+CMP00246,New Intel & RTX Launch Expo #0246,Product Launch,Social Media,621835.06,2026-05-11,2026-06-10,Gamers & Creators,Active
+CMP00247,New Intel & RTX Launch Expo #0247,Product Launch,Social Media,514628.92,2025-01-08,2025-01-19,Gamers & Creators,Completed
+CMP00248,DIY PC Builder Special Bonus #0248,Discount Promotion,In-Store Branch,309155.98,2025-10-27,2025-11-11,DIY PC Builders,Upcoming
+CMP00249,Back to School Laptop Fair #0249,Seasonal Sale,Online Store,267869.22,2025-12-12,2025-12-22,Students & Education,Completed
+CMP00250,JIB Online Member Exclusive #0250,Brand Awareness,Line OA,86564.06,2025-06-17,2025-07-09,General Public,Active
+CMP00251,Flash Sale 24 Hours Midnight #0251,Flash Sale,Shopee / Lazada,80219.02,2026-04-11,2026-05-06,General Public,Completed
+CMP00252,7.7 Mega Double Date #0252,Discount Promotion,Shopee / Lazada,291309.38,2025-01-24,2025-01-28,General Public,Completed
+CMP00253,Back to School Laptop Fair #0253,Seasonal Sale,Online Store,183916.01,2025-05-01,2025-05-21,Students & Education,Completed
+CMP00254,JIB Online Member Exclusive #0254,Brand Awareness,Line OA,149072.28,2025-08-03,2025-08-24,General Public,Active
+CMP00255,New Intel & RTX Launch Expo #0255,Product Launch,Social Media,633477.23,2025-12-02,2025-12-08,Gamers & Creators,Completed
+CMP00256,DIY PC Builder Special Bonus #0256,Discount Promotion,In-Store Branch,205221.89,2025-01-17,2025-02-11,DIY PC Builders,Completed
+CMP00257,Gaming Gear Festival #0257,Product Launch,In-Store Branch,96890.29,2026-03-14,2026-03-28,Gamers & Creators,Completed
+CMP00258,JIB Online Member Exclusive #0258,Brand Awareness,Line OA,103040.86,2026-04-07,2026-04-30,General Public,Active
+CMP00259,Gaming Gear Festival #0259,Product Launch,In-Store Branch,241331.83,2026-05-11,2026-05-17,Gamers & Creators,Upcoming
+CMP00260,Back to School Laptop Fair #0260,Seasonal Sale,Online Store,310426.12,2025-12-06,2025-12-15,Students & Education,Completed
+CMP00261,JIB Super Sale Mid-Month #0261,Discount Promotion,Social Media,166701.83,2025-01-26,2025-02-23,General Public,Cancelled
+CMP00262,Corporate IT Solution Fair #0262,Brand Awareness,Social Media,265963.57,2025-04-16,2025-04-21,Corporate / Office,Completed
+CMP00263,Corporate IT Solution Fair #0263,Brand Awareness,Social Media,273939.09,2025-04-21,2025-05-20,Corporate / Office,Active
+CMP00264,7.7 Mega Double Date #0264,Discount Promotion,Shopee / Lazada,200850.67,2026-02-08,2026-03-02,General Public,Upcoming
+CMP00265,7.7 Mega Double Date #0265,Discount Promotion,Shopee / Lazada,275196.26,2025-03-08,2025-03-28,General Public,Active
+CMP00266,JIB Super Sale Mid-Month #0266,Discount Promotion,Social Media,171648.46,2025-03-09,2025-03-12,General Public,Completed
+CMP00267,Corporate IT Solution Fair #0267,Brand Awareness,Social Media,134849.24,2025-06-15,2025-06-18,Corporate / Office,Active
+CMP00268,New Intel & RTX Launch Expo #0268,Product Launch,Social Media,598266.11,2025-09-27,2025-10-03,Gamers & Creators,Completed
+CMP00269,End of Year Tech Clearance #0269,Seasonal Sale,Online Store,288168.9,2025-09-20,2025-10-11,General Public,Completed
+CMP00270,Corporate IT Solution Fair #0270,Brand Awareness,Social Media,256645.4,2025-01-23,2025-02-18,Corporate / Office,Upcoming
+CMP00271,JIB Online Member Exclusive #0271,Brand Awareness,Line OA,137200.88,2025-06-04,2025-06-21,General Public,Active
+CMP00272,Flash Sale 24 Hours Midnight #0272,Flash Sale,Shopee / Lazada,92627.36,2026-03-10,2026-03-25,General Public,Active
+CMP00273,Flash Sale 24 Hours Midnight #0273,Flash Sale,Shopee / Lazada,82211.18,2025-02-07,2025-02-12,General Public,Active
+CMP00274,7.7 Mega Double Date #0274,Discount Promotion,Shopee / Lazada,389923.02,2025-05-21,2025-06-12,General Public,Completed
+CMP00275,End of Year Tech Clearance #0275,Seasonal Sale,Online Store,435694.89,2025-07-15,2025-08-06,General Public,Completed
+CMP00276,Corporate IT Solution Fair #0276,Brand Awareness,Social Media,258619.22,2025-08-09,2025-08-15,Corporate / Office,Active
+CMP00277,JIB Online Member Exclusive #0277,Brand Awareness,Line OA,85802.77,2026-01-05,2026-02-04,General Public,Completed
+CMP00278,Gaming Gear Festival #0278,Product Launch,In-Store Branch,220661.27,2025-07-31,2025-08-13,Gamers & Creators,Active
+CMP00279,Back to School Laptop Fair #0279,Seasonal Sale,Online Store,228130.89,2025-06-10,2025-06-26,Students & Education,Active
+CMP00280,7.7 Mega Double Date #0280,Discount Promotion,Shopee / Lazada,220139.99,2025-12-18,2026-01-05,General Public,Upcoming
+CMP00281,Back to School Laptop Fair #0281,Seasonal Sale,Online Store,336147.24,2025-08-10,2025-08-16,Students & Education,Active
+CMP00282,7.7 Mega Double Date #0282,Discount Promotion,Shopee / Lazada,375939.52,2025-10-12,2025-10-16,General Public,Completed
+CMP00283,End of Year Tech Clearance #0283,Seasonal Sale,Online Store,393783.02,2025-12-10,2025-12-16,General Public,Upcoming
+CMP00284,New Intel & RTX Launch Expo #0284,Product Launch,Social Media,320578.43,2026-03-21,2026-04-16,Gamers & Creators,Active
+CMP00285,DIY PC Builder Special Bonus #0285,Discount Promotion,In-Store Branch,252921.26,2025-06-30,2025-07-06,DIY PC Builders,Active
+CMP00286,Flash Sale 24 Hours Midnight #0286,Flash Sale,Shopee / Lazada,60821.84,2025-04-25,2025-05-25,General Public,Upcoming
+CMP00287,End of Year Tech Clearance #0287,Seasonal Sale,Online Store,347498.87,2025-02-28,2025-03-27,General Public,Active
+CMP00288,New Intel & RTX Launch Expo #0288,Product Launch,Social Media,689818.64,2026-03-09,2026-03-29,Gamers & Creators,Upcoming
+CMP00289,Corporate IT Solution Fair #0289,Brand Awareness,Social Media,211347.95,2025-12-12,2026-01-04,Corporate / Office,Completed
+CMP00290,DIY PC Builder Special Bonus #0290,Discount Promotion,In-Store Branch,182852.19,2025-01-15,2025-01-23,DIY PC Builders,Completed
+CMP00291,End of Year Tech Clearance #0291,Seasonal Sale,Online Store,313491.95,2025-06-29,2025-07-02,General Public,Active
+CMP00292,New Intel & RTX Launch Expo #0292,Product Launch,Social Media,596387.62,2025-02-05,2025-02-12,Gamers & Creators,Cancelled
+CMP00293,Back to School Laptop Fair #0293,Seasonal Sale,Online Store,203783.22,2026-01-18,2026-02-06,Students & Education,Completed
+CMP00294,End of Year Tech Clearance #0294,Seasonal Sale,Online Store,359073.08,2025-03-22,2025-04-05,General Public,Active
+CMP00295,Corporate IT Solution Fair #0295,Brand Awareness,Social Media,276668.44,2025-11-02,2025-11-07,Corporate / Office,Active
+CMP00296,Corporate IT Solution Fair #0296,Brand Awareness,Social Media,116316.31,2025-01-26,2025-02-19,Corporate / Office,Completed
+CMP00297,New Intel & RTX Launch Expo #0297,Product Launch,Social Media,476817.67,2025-09-06,2025-09-28,Gamers & Creators,Active
+CMP00298,JIB Online Member Exclusive #0298,Brand Awareness,Line OA,111589.64,2025-02-28,2025-03-14,General Public,Active
+CMP00299,Corporate IT Solution Fair #0299,Brand Awareness,Social Media,233426.51,2025-09-07,2025-09-26,Corporate / Office,Active
+CMP00300,New Intel & RTX Launch Expo #0300,Product Launch,Social Media,303074.83,2025-11-03,2025-11-07,Gamers & Creators,Active
+CMP00301,Gaming Gear Festival #0301,Product Launch,In-Store Branch,209907.35,2026-01-28,2026-02-04,Gamers & Creators,Active
+CMP00302,Back to School Laptop Fair #0302,Seasonal Sale,Online Store,336753.53,2025-01-04,2025-01-22,Students & Education,Active
+CMP00303,New Intel & RTX Launch Expo #0303,Product Launch,Social Media,392044.29,2025-09-30,2025-10-25,Gamers & Creators,Completed
+CMP00304,End of Year Tech Clearance #0304,Seasonal Sale,Online Store,551617.53,2025-02-06,2025-02-21,General Public,Active
+CMP00305,JIB Super Sale Mid-Month #0305,Discount Promotion,Social Media,272422.0,2025-08-24,2025-08-29,General Public,Completed
+CMP00306,Corporate IT Solution Fair #0306,Brand Awareness,Social Media,228028.33,2025-07-27,2025-08-21,Corporate / Office,Active
+CMP00307,New Intel & RTX Launch Expo #0307,Product Launch,Social Media,368749.27,2025-01-11,2025-01-24,Gamers & Creators,Upcoming
+CMP00308,Flash Sale 24 Hours Midnight #0308,Flash Sale,Shopee / Lazada,141976.98,2026-03-02,2026-03-27,General Public,Active
+CMP00309,Back to School Laptop Fair #0309,Seasonal Sale,Online Store,297217.82,2025-05-05,2025-05-21,Students & Education,Completed
+CMP00310,New Intel & RTX Launch Expo #0310,Product Launch,Social Media,598321.93,2026-03-22,2026-04-03,Gamers & Creators,Active
+CMP00311,7.7 Mega Double Date #0311,Discount Promotion,Shopee / Lazada,389967.4,2025-02-09,2025-02-28,General Public,Completed
+CMP00312,Gaming Gear Festival #0312,Product Launch,In-Store Branch,139393.8,2026-04-09,2026-05-06,Gamers & Creators,Completed
+CMP00313,7.7 Mega Double Date #0313,Discount Promotion,Shopee / Lazada,243933.27,2025-05-01,2025-05-07,General Public,Active
+CMP00314,Corporate IT Solution Fair #0314,Brand Awareness,Social Media,251830.48,2025-03-20,2025-04-16,Corporate / Office,Active
+CMP00315,Flash Sale 24 Hours Midnight #0315,Flash Sale,Shopee / Lazada,106373.55,2025-08-26,2025-09-22,General Public,Completed
+CMP00316,Corporate IT Solution Fair #0316,Brand Awareness,Social Media,297306.39,2025-11-26,2025-12-19,Corporate / Office,Active
+CMP00317,End of Year Tech Clearance #0317,Seasonal Sale,Online Store,273900.19,2025-03-19,2025-04-05,General Public,Completed
+CMP00318,DIY PC Builder Special Bonus #0318,Discount Promotion,In-Store Branch,256026.54,2026-02-12,2026-02-23,DIY PC Builders,Active
+CMP00319,Back to School Laptop Fair #0319,Seasonal Sale,Online Store,262978.47,2025-06-08,2025-06-25,Students & Education,Active
+CMP00320,DIY PC Builder Special Bonus #0320,Discount Promotion,In-Store Branch,318777.51,2025-02-09,2025-03-04,DIY PC Builders,Upcoming
+CMP00321,Corporate IT Solution Fair #0321,Brand Awareness,Social Media,176896.5,2025-11-01,2025-11-20,Corporate / Office,Completed
+CMP00322,JIB Super Sale Mid-Month #0322,Discount Promotion,Social Media,214331.34,2025-08-19,2025-09-16,General Public,Active
+CMP00323,Corporate IT Solution Fair #0323,Brand Awareness,Social Media,130172.22,2025-09-01,2025-09-20,Corporate / Office,Active
+CMP00324,Back to School Laptop Fair #0324,Seasonal Sale,Online Store,235859.44,2026-02-20,2026-03-21,Students & Education,Completed
+CMP00325,JIB Online Member Exclusive #0325,Brand Awareness,Line OA,64697.06,2025-11-27,2025-12-05,General Public,Completed
+CMP00326,Flash Sale 24 Hours Midnight #0326,Flash Sale,Shopee / Lazada,110980.54,2025-09-26,2025-10-15,General Public,Active
+CMP00327,DIY PC Builder Special Bonus #0327,Discount Promotion,In-Store Branch,298126.9,2025-07-18,2025-08-03,DIY PC Builders,Completed
+CMP00328,JIB Super Sale Mid-Month #0328,Discount Promotion,Social Media,229461.07,2026-02-09,2026-03-04,General Public,Active
+CMP00329,Back to School Laptop Fair #0329,Seasonal Sale,Online Store,246641.05,2025-10-13,2025-11-06,Students & Education,Active
+CMP00330,Corporate IT Solution Fair #0330,Brand Awareness,Social Media,166672.41,2026-03-24,2026-03-31,Corporate / Office,Completed
+CMP00331,7.7 Mega Double Date #0331,Discount Promotion,Shopee / Lazada,293069.52,2026-04-15,2026-04-29,General Public,Completed
+CMP00332,New Intel & RTX Launch Expo #0332,Product Launch,Social Media,583533.61,2025-03-08,2025-03-30,Gamers & Creators,Active
+CMP00333,JIB Online Member Exclusive #0333,Brand Awareness,Line OA,154999.43,2025-07-12,2025-08-04,General Public,Upcoming
+CMP00334,JIB Online Member Exclusive #0334,Brand Awareness,Line OA,140454.72,2025-02-17,2025-03-12,General Public,Completed
+CMP00335,JIB Super Sale Mid-Month #0335,Discount Promotion,Social Media,136052.58,2025-07-05,2025-07-17,General Public,Active
+CMP00336,Flash Sale 24 Hours Midnight #0336,Flash Sale,Shopee / Lazada,149997.66,2025-04-09,2025-04-19,General Public,Active
+CMP00337,DIY PC Builder Special Bonus #0337,Discount Promotion,In-Store Branch,143262.38,2026-03-09,2026-04-06,DIY PC Builders,Completed
+CMP00338,JIB Online Member Exclusive #0338,Brand Awareness,Line OA,100411.72,2025-01-20,2025-02-13,General Public,Completed
+CMP00339,7.7 Mega Double Date #0339,Discount Promotion,Shopee / Lazada,246275.83,2025-11-02,2025-11-17,General Public,Active
+CMP00340,Corporate IT Solution Fair #0340,Brand Awareness,Social Media,244236.6,2026-02-19,2026-02-27,Corporate / Office,Active
+CMP00341,End of Year Tech Clearance #0341,Seasonal Sale,Online Store,333135.57,2025-12-13,2026-01-08,General Public,Completed
+CMP00342,DIY PC Builder Special Bonus #0342,Discount Promotion,In-Store Branch,300274.08,2026-01-21,2026-02-16,DIY PC Builders,Active
+CMP00343,Gaming Gear Festival #0343,Product Launch,In-Store Branch,213342.94,2025-06-08,2025-07-06,Gamers & Creators,Upcoming
+CMP00344,Gaming Gear Festival #0344,Product Launch,In-Store Branch,241012.13,2025-07-08,2025-08-01,Gamers & Creators,Cancelled
+CMP00345,Flash Sale 24 Hours Midnight #0345,Flash Sale,Shopee / Lazada,127812.4,2026-01-29,2026-02-10,General Public,Completed
+CMP00346,New Intel & RTX Launch Expo #0346,Product Launch,Social Media,626756.5,2026-05-10,2026-05-18,Gamers & Creators,Upcoming
+CMP00347,7.7 Mega Double Date #0347,Discount Promotion,Shopee / Lazada,215653.94,2026-03-23,2026-04-03,General Public,Completed
+CMP00348,End of Year Tech Clearance #0348,Seasonal Sale,Online Store,498990.34,2025-10-11,2025-10-17,General Public,Completed
+CMP00349,Back to School Laptop Fair #0349,Seasonal Sale,Online Store,340779.21,2025-05-26,2025-05-31,Students & Education,Active
+CMP00350,JIB Online Member Exclusive #0350,Brand Awareness,Line OA,112496.71,2025-03-17,2025-04-15,General Public,Upcoming
+CMP00351,Gaming Gear Festival #0351,Product Launch,In-Store Branch,230387.06,2026-02-23,2026-03-12,Gamers & Creators,Upcoming
+CMP00352,New Intel & RTX Launch Expo #0352,Product Launch,Social Media,500802.85,2025-01-28,2025-02-12,Gamers & Creators,Active
+CMP00353,Back to School Laptop Fair #0353,Seasonal Sale,Online Store,157046.89,2025-07-11,2025-07-21,Students & Education,Upcoming
+CMP00354,End of Year Tech Clearance #0354,Seasonal Sale,Online Store,298159.86,2026-02-10,2026-02-17,General Public,Active
+CMP00355,Flash Sale 24 Hours Midnight #0355,Flash Sale,Shopee / Lazada,63879.27,2025-12-23,2026-01-21,General Public,Completed
+CMP00356,Flash Sale 24 Hours Midnight #0356,Flash Sale,Shopee / Lazada,140585.75,2025-11-12,2025-11-15,General Public,Active
+CMP00357,Gaming Gear Festival #0357,Product Launch,In-Store Branch,173296.72,2026-03-04,2026-03-11,Gamers & Creators,Completed
+CMP00358,JIB Online Member Exclusive #0358,Brand Awareness,Line OA,153140.72,2025-08-05,2025-08-11,General Public,Active
+CMP00359,Back to School Laptop Fair #0359,Seasonal Sale,Online Store,254956.39,2025-01-25,2025-02-04,Students & Education,Completed
+CMP00360,Flash Sale 24 Hours Midnight #0360,Flash Sale,Shopee / Lazada,133668.77,2025-02-02,2025-02-08,General Public,Completed
+CMP00361,JIB Online Member Exclusive #0361,Brand Awareness,Line OA,121845.09,2025-01-09,2025-02-01,General Public,Active
+CMP00362,7.7 Mega Double Date #0362,Discount Promotion,Shopee / Lazada,200469.3,2025-05-30,2025-06-15,General Public,Active
+CMP00363,Corporate IT Solution Fair #0363,Brand Awareness,Social Media,232874.26,2025-08-02,2025-08-10,Corporate / Office,Active
+CMP00364,End of Year Tech Clearance #0364,Seasonal Sale,Online Store,440428.69,2025-02-04,2025-02-23,General Public,Completed
+CMP00365,JIB Online Member Exclusive #0365,Brand Awareness,Line OA,106854.45,2025-10-11,2025-10-14,General Public,Completed
+CMP00366,New Intel & RTX Launch Expo #0366,Product Launch,Social Media,598926.64,2025-07-11,2025-07-22,Gamers & Creators,Active
+CMP00367,Back to School Laptop Fair #0367,Seasonal Sale,Online Store,333235.26,2025-06-26,2025-07-06,Students & Education,Completed
+CMP00368,Corporate IT Solution Fair #0368,Brand Awareness,Social Media,166503.72,2026-01-12,2026-02-08,Corporate / Office,Active
+CMP00369,JIB Online Member Exclusive #0369,Brand Awareness,Line OA,137135.47,2025-06-23,2025-07-22,General Public,Upcoming
+CMP00370,Flash Sale 24 Hours Midnight #0370,Flash Sale,Shopee / Lazada,113173.58,2025-12-23,2026-01-10,General Public,Upcoming
+CMP00371,Back to School Laptop Fair #0371,Seasonal Sale,Online Store,385901.29,2026-01-02,2026-01-29,Students & Education,Active
+CMP00372,Gaming Gear Festival #0372,Product Launch,In-Store Branch,113909.87,2025-01-23,2025-02-20,Gamers & Creators,Active
+CMP00373,DIY PC Builder Special Bonus #0373,Discount Promotion,In-Store Branch,347498.22,2025-09-21,2025-10-06,DIY PC Builders,Completed
+CMP00374,DIY PC Builder Special Bonus #0374,Discount Promotion,In-Store Branch,268787.11,2025-01-19,2025-02-15,DIY PC Builders,Active
+CMP00375,JIB Super Sale Mid-Month #0375,Discount Promotion,Social Media,166384.94,2026-03-20,2026-04-12,General Public,Active
+CMP00376,End of Year Tech Clearance #0376,Seasonal Sale,Online Store,510157.7,2025-08-12,2025-08-27,General Public,Upcoming
+CMP00377,New Intel & RTX Launch Expo #0377,Product Launch,Social Media,498481.29,2025-06-23,2025-07-01,Gamers & Creators,Completed
+CMP00378,JIB Online Member Exclusive #0378,Brand Awareness,Line OA,69913.38,2025-05-17,2025-06-14,General Public,Completed
+CMP00379,New Intel & RTX Launch Expo #0379,Product Launch,Social Media,372182.59,2025-11-05,2025-12-04,Gamers & Creators,Active
+CMP00380,Back to School Laptop Fair #0380,Seasonal Sale,Online Store,315229.81,2025-02-10,2025-02-23,Students & Education,Active
+CMP00381,Corporate IT Solution Fair #0381,Brand Awareness,Social Media,133328.95,2026-01-03,2026-01-19,Corporate / Office,Completed
+CMP00382,Flash Sale 24 Hours Midnight #0382,Flash Sale,Shopee / Lazada,137003.72,2025-01-22,2025-02-17,General Public,Active
+CMP00383,New Intel & RTX Launch Expo #0383,Product Launch,Social Media,692010.91,2025-05-21,2025-06-13,Gamers & Creators,Upcoming
+CMP00384,Back to School Laptop Fair #0384,Seasonal Sale,Online Store,251552.56,2025-12-10,2026-01-02,Students & Education,Completed
+CMP00385,7.7 Mega Double Date #0385,Discount Promotion,Shopee / Lazada,242833.84,2026-05-03,2026-05-06,General Public,Completed
+CMP00386,Flash Sale 24 Hours Midnight #0386,Flash Sale,Shopee / Lazada,56723.34,2025-01-18,2025-01-25,General Public,Completed
+CMP00387,End of Year Tech Clearance #0387,Seasonal Sale,Online Store,582313.49,2025-07-05,2025-07-20,General Public,Active
+CMP00388,7.7 Mega Double Date #0388,Discount Promotion,Shopee / Lazada,484647.06,2025-12-14,2025-12-31,General Public,Active
+CMP00389,Back to School Laptop Fair #0389,Seasonal Sale,Online Store,282364.97,2025-10-21,2025-10-28,Students & Education,Active
+CMP00390,DIY PC Builder Special Bonus #0390,Discount Promotion,In-Store Branch,125960.07,2025-05-08,2025-05-14,DIY PC Builders,Active
+CMP00391,JIB Online Member Exclusive #0391,Brand Awareness,Line OA,74131.32,2025-07-18,2025-08-07,General Public,Completed
+CMP00392,Flash Sale 24 Hours Midnight #0392,Flash Sale,Shopee / Lazada,78557.69,2025-04-20,2025-05-12,General Public,Upcoming
+CMP00393,Flash Sale 24 Hours Midnight #0393,Flash Sale,Shopee / Lazada,63572.84,2025-04-13,2025-04-19,General Public,Active
+CMP00394,7.7 Mega Double Date #0394,Discount Promotion,Shopee / Lazada,333533.36,2026-04-06,2026-05-01,General Public,Active
+CMP00395,End of Year Tech Clearance #0395,Seasonal Sale,Online Store,498339.17,2025-12-08,2025-12-22,General Public,Completed
+CMP00396,DIY PC Builder Special Bonus #0396,Discount Promotion,In-Store Branch,315813.27,2026-04-02,2026-04-14,DIY PC Builders,Completed
+CMP00397,7.7 Mega Double Date #0397,Discount Promotion,Shopee / Lazada,352626.72,2026-02-11,2026-02-25,General Public,Active
+CMP00398,Gaming Gear Festival #0398,Product Launch,In-Store Branch,120245.15,2026-02-10,2026-02-17,Gamers & Creators,Completed
+CMP00399,End of Year Tech Clearance #0399,Seasonal Sale,Online Store,379118.91,2025-10-11,2025-11-01,General Public,Upcoming
+CMP00400,JIB Online Member Exclusive #0400,Brand Awareness,Line OA,166109.57,2025-03-08,2025-03-30,General Public,Active
+CMP00401,New Intel & RTX Launch Expo #0401,Product Launch,Social Media,491466.04,2026-01-03,2026-01-29,Gamers & Creators,Completed
+CMP00402,New Intel & RTX Launch Expo #0402,Product Launch,Social Media,329500.29,2026-02-26,2026-03-19,Gamers & Creators,Cancelled
+CMP00403,Back to School Laptop Fair #0403,Seasonal Sale,Online Store,320027.25,2025-08-19,2025-09-05,Students & Education,Active
+CMP00404,JIB Online Member Exclusive #0404,Brand Awareness,Line OA,81835.58,2025-11-24,2025-12-15,General Public,Cancelled
+CMP00405,New Intel & RTX Launch Expo #0405,Product Launch,Social Media,322165.14,2025-09-15,2025-10-15,Gamers & Creators,Active
+CMP00406,7.7 Mega Double Date #0406,Discount Promotion,Shopee / Lazada,248590.09,2025-06-05,2025-06-13,General Public,Upcoming
+CMP00407,Gaming Gear Festival #0407,Product Launch,In-Store Branch,232137.41,2025-06-27,2025-07-16,Gamers & Creators,Upcoming
+CMP00408,DIY PC Builder Special Bonus #0408,Discount Promotion,In-Store Branch,339960.87,2025-04-11,2025-05-04,DIY PC Builders,Active
+CMP00409,DIY PC Builder Special Bonus #0409,Discount Promotion,In-Store Branch,141488.53,2025-11-11,2025-12-01,DIY PC Builders,Completed
+CMP00410,Corporate IT Solution Fair #0410,Brand Awareness,Social Media,130838.85,2026-04-28,2026-05-19,Corporate / Office,Completed
+CMP00411,Corporate IT Solution Fair #0411,Brand Awareness,Social Media,284785.95,2025-06-22,2025-07-21,Corporate / Office,Active
+CMP00412,JIB Super Sale Mid-Month #0412,Discount Promotion,Social Media,289709.37,2025-02-11,2025-02-15,General Public,Completed
+CMP00413,DIY PC Builder Special Bonus #0413,Discount Promotion,In-Store Branch,296400.57,2025-11-30,2025-12-09,DIY PC Builders,Completed
+CMP00414,JIB Super Sale Mid-Month #0414,Discount Promotion,Social Media,209115.5,2025-09-12,2025-10-05,General Public,Completed
+CMP00415,DIY PC Builder Special Bonus #0415,Discount Promotion,In-Store Branch,305078.28,2025-09-05,2025-09-15,DIY PC Builders,Completed
+CMP00416,DIY PC Builder Special Bonus #0416,Discount Promotion,In-Store Branch,278381.12,2025-08-21,2025-08-26,DIY PC Builders,Active
+CMP00417,New Intel & RTX Launch Expo #0417,Product Launch,Social Media,381609.21,2025-09-05,2025-09-22,Gamers & Creators,Completed
+CMP00418,End of Year Tech Clearance #0418,Seasonal Sale,Online Store,361760.74,2026-03-18,2026-04-12,General Public,Cancelled
+CMP00419,End of Year Tech Clearance #0419,Seasonal Sale,Online Store,295768.15,2026-05-15,2026-05-30,General Public,Active
+CMP00420,JIB Online Member Exclusive #0420,Brand Awareness,Line OA,89008.54,2025-02-24,2025-03-09,General Public,Active
+CMP00421,Flash Sale 24 Hours Midnight #0421,Flash Sale,Shopee / Lazada,59681.17,2025-05-07,2025-05-14,General Public,Active
+CMP00422,New Intel & RTX Launch Expo #0422,Product Launch,Social Media,467253.9,2026-03-19,2026-04-10,Gamers & Creators,Cancelled
+CMP00423,7.7 Mega Double Date #0423,Discount Promotion,Shopee / Lazada,480125.46,2026-02-21,2026-03-06,General Public,Completed
+CMP00424,Gaming Gear Festival #0424,Product Launch,In-Store Branch,164705.14,2026-01-26,2026-02-03,Gamers & Creators,Completed
+CMP00425,Flash Sale 24 Hours Midnight #0425,Flash Sale,Shopee / Lazada,99737.03,2026-03-27,2026-04-08,General Public,Active
+CMP00426,New Intel & RTX Launch Expo #0426,Product Launch,Social Media,686674.65,2025-09-16,2025-10-03,Gamers & Creators,Active
+CMP00427,End of Year Tech Clearance #0427,Seasonal Sale,Online Store,348474.72,2025-01-25,2025-01-29,General Public,Completed
+CMP00428,Flash Sale 24 Hours Midnight #0428,Flash Sale,Shopee / Lazada,50817.74,2025-05-27,2025-06-16,General Public,Active
+CMP00429,7.7 Mega Double Date #0429,Discount Promotion,Shopee / Lazada,418252.42,2026-03-28,2026-04-08,General Public,Completed
+CMP00430,End of Year Tech Clearance #0430,Seasonal Sale,Online Store,267905.19,2025-01-24,2025-02-08,General Public,Completed
+CMP00431,End of Year Tech Clearance #0431,Seasonal Sale,Online Store,275736.11,2025-10-11,2025-10-23,General Public,Completed
+CMP00432,JIB Online Member Exclusive #0432,Brand Awareness,Line OA,178690.88,2025-05-24,2025-06-22,General Public,Completed
+CMP00433,Back to School Laptop Fair #0433,Seasonal Sale,Online Store,248475.93,2025-03-07,2025-03-13,Students & Education,Completed
+CMP00434,End of Year Tech Clearance #0434,Seasonal Sale,Online Store,514237.81,2025-10-13,2025-10-27,General Public,Active
+CMP00435,JIB Online Member Exclusive #0435,Brand Awareness,Line OA,64830.59,2025-07-25,2025-08-13,General Public,Active
+CMP00436,End of Year Tech Clearance #0436,Seasonal Sale,Online Store,431766.45,2026-02-16,2026-03-06,General Public,Active
+CMP00437,JIB Online Member Exclusive #0437,Brand Awareness,Line OA,171764.25,2025-03-13,2025-03-26,General Public,Active
+CMP00438,New Intel & RTX Launch Expo #0438,Product Launch,Social Media,637040.77,2025-11-12,2025-12-08,Gamers & Creators,Completed
+CMP00439,JIB Online Member Exclusive #0439,Brand Awareness,Line OA,123880.78,2026-03-01,2026-03-20,General Public,Completed
+CMP00440,DIY PC Builder Special Bonus #0440,Discount Promotion,In-Store Branch,123826.5,2025-09-01,2025-09-30,DIY PC Builders,Active
+CMP00441,Back to School Laptop Fair #0441,Seasonal Sale,Online Store,226919.46,2025-08-02,2025-08-23,Students & Education,Upcoming
+CMP00442,JIB Super Sale Mid-Month #0442,Discount Promotion,Social Media,153106.09,2025-11-02,2025-11-20,General Public,Completed
+CMP00443,Corporate IT Solution Fair #0443,Brand Awareness,Social Media,244280.02,2025-10-23,2025-11-02,Corporate / Office,Completed
+CMP00444,7.7 Mega Double Date #0444,Discount Promotion,Shopee / Lazada,416354.85,2025-09-26,2025-10-19,General Public,Completed
+CMP00445,New Intel & RTX Launch Expo #0445,Product Launch,Social Media,572290.76,2025-03-17,2025-04-15,Gamers & Creators,Active
+CMP00446,Back to School Laptop Fair #0446,Seasonal Sale,Online Store,260259.64,2025-04-08,2025-04-11,Students & Education,Completed
+CMP00447,New Intel & RTX Launch Expo #0447,Product Launch,Social Media,464150.96,2025-12-20,2025-12-29,Gamers & Creators,Completed
+CMP00448,Flash Sale 24 Hours Midnight #0448,Flash Sale,Shopee / Lazada,123583.73,2026-03-23,2026-04-22,General Public,Active
+CMP00449,7.7 Mega Double Date #0449,Discount Promotion,Shopee / Lazada,368266.03,2025-09-23,2025-10-02,General Public,Cancelled
+CMP00450,Flash Sale 24 Hours Midnight #0450,Flash Sale,Shopee / Lazada,81375.26,2025-09-27,2025-10-12,General Public,Active
+CMP00451,JIB Online Member Exclusive #0451,Brand Awareness,Line OA,102514.44,2025-06-25,2025-07-15,General Public,Completed
+CMP00452,DIY PC Builder Special Bonus #0452,Discount Promotion,In-Store Branch,164220.76,2025-11-09,2025-11-27,DIY PC Builders,Active
+CMP00453,JIB Online Member Exclusive #0453,Brand Awareness,Line OA,172978.27,2025-06-02,2025-06-12,General Public,Cancelled
+CMP00454,DIY PC Builder Special Bonus #0454,Discount Promotion,In-Store Branch,278755.18,2025-12-27,2026-01-05,DIY PC Builders,Completed
+CMP00455,Flash Sale 24 Hours Midnight #0455,Flash Sale,Shopee / Lazada,143370.04,2025-06-28,2025-07-18,General Public,Completed
+CMP00456,DIY PC Builder Special Bonus #0456,Discount Promotion,In-Store Branch,251899.66,2025-05-28,2025-06-03,DIY PC Builders,Completed
+CMP00457,New Intel & RTX Launch Expo #0457,Product Launch,Social Media,681843.55,2026-02-24,2026-03-10,Gamers & Creators,Upcoming
+CMP00458,DIY PC Builder Special Bonus #0458,Discount Promotion,In-Store Branch,339722.16,2025-01-22,2025-02-03,DIY PC Builders,Active
+CMP00459,Flash Sale 24 Hours Midnight #0459,Flash Sale,Shopee / Lazada,124733.85,2025-12-02,2025-12-13,General Public,Active
+CMP00460,JIB Online Member Exclusive #0460,Brand Awareness,Line OA,143540.56,2025-05-19,2025-06-08,General Public,Active
+CMP00461,Corporate IT Solution Fair #0461,Brand Awareness,Social Media,147856.41,2026-01-15,2026-02-05,Corporate / Office,Active
+CMP00462,JIB Online Member Exclusive #0462,Brand Awareness,Line OA,87940.39,2025-04-26,2025-05-19,General Public,Active
+CMP00463,End of Year Tech Clearance #0463,Seasonal Sale,Online Store,285190.72,2026-01-03,2026-01-21,General Public,Completed
+CMP00464,JIB Super Sale Mid-Month #0464,Discount Promotion,Social Media,295582.14,2026-05-09,2026-05-29,General Public,Active
+CMP00465,Flash Sale 24 Hours Midnight #0465,Flash Sale,Shopee / Lazada,69945.6,2025-09-02,2025-09-25,General Public,Cancelled
+CMP00466,End of Year Tech Clearance #0466,Seasonal Sale,Online Store,270706.91,2025-05-27,2025-06-19,General Public,Completed
+CMP00467,Corporate IT Solution Fair #0467,Brand Awareness,Social Media,247737.3,2025-04-29,2025-05-19,Corporate / Office,Upcoming
+CMP00468,JIB Super Sale Mid-Month #0468,Discount Promotion,Social Media,183577.0,2026-04-13,2026-04-21,General Public,Upcoming
+CMP00469,JIB Super Sale Mid-Month #0469,Discount Promotion,Social Media,257592.13,2026-03-05,2026-03-20,General Public,Active
+CMP00470,DIY PC Builder Special Bonus #0470,Discount Promotion,In-Store Branch,122131.45,2026-03-25,2026-03-29,DIY PC Builders,Completed
+CMP00471,Back to School Laptop Fair #0471,Seasonal Sale,Online Store,221140.41,2026-04-21,2026-05-04,Students & Education,Cancelled
+CMP00472,JIB Online Member Exclusive #0472,Brand Awareness,Line OA,166711.2,2025-09-26,2025-10-14,General Public,Active
+CMP00473,JIB Online Member Exclusive #0473,Brand Awareness,Line OA,83137.37,2025-08-28,2025-09-08,General Public,Active
+CMP00474,7.7 Mega Double Date #0474,Discount Promotion,Shopee / Lazada,394485.6,2026-01-10,2026-01-27,General Public,Completed
+CMP00475,JIB Super Sale Mid-Month #0475,Discount Promotion,Social Media,258153.53,2026-01-13,2026-01-26,General Public,Completed
+CMP00476,Gaming Gear Festival #0476,Product Launch,In-Store Branch,225544.91,2025-03-31,2025-04-22,Gamers & Creators,Upcoming
+CMP00477,New Intel & RTX Launch Expo #0477,Product Launch,Social Media,334695.11,2025-09-21,2025-10-04,Gamers & Creators,Completed
+CMP00478,7.7 Mega Double Date #0478,Discount Promotion,Shopee / Lazada,297080.5,2025-03-13,2025-03-31,General Public,Active
+CMP00479,DIY PC Builder Special Bonus #0479,Discount Promotion,In-Store Branch,222749.17,2025-07-16,2025-07-26,DIY PC Builders,Active
+CMP00480,End of Year Tech Clearance #0480,Seasonal Sale,Online Store,503008.88,2025-06-04,2025-06-25,General Public,Active
+CMP00481,End of Year Tech Clearance #0481,Seasonal Sale,Online Store,271743.52,2025-12-21,2025-12-31,General Public,Active
+CMP00482,DIY PC Builder Special Bonus #0482,Discount Promotion,In-Store Branch,277796.93,2025-03-23,2025-04-07,DIY PC Builders,Upcoming
+CMP00483,DIY PC Builder Special Bonus #0483,Discount Promotion,In-Store Branch,266903.6,2025-12-20,2025-12-26,DIY PC Builders,Upcoming
+CMP00484,End of Year Tech Clearance #0484,Seasonal Sale,Online Store,326695.01,2025-11-11,2025-11-21,General Public,Active
+CMP00485,7.7 Mega Double Date #0485,Discount Promotion,Shopee / Lazada,496651.39,2025-08-21,2025-09-16,General Public,Active
+CMP00486,JIB Online Member Exclusive #0486,Brand Awareness,Line OA,150882.06,2026-04-13,2026-05-01,General Public,Upcoming
+CMP00487,Gaming Gear Festival #0487,Product Launch,In-Store Branch,195658.13,2026-01-26,2026-02-05,Gamers & Creators,Completed
+CMP00488,Back to School Laptop Fair #0488,Seasonal Sale,Online Store,282043.28,2025-09-27,2025-10-14,Students & Education,Active
+CMP00489,Corporate IT Solution Fair #0489,Brand Awareness,Social Media,265754.81,2025-02-27,2025-03-03,Corporate / Office,Upcoming
+CMP00490,Gaming Gear Festival #0490,Product Launch,In-Store Branch,105474.9,2025-10-21,2025-11-10,Gamers & Creators,Active
+CMP00491,JIB Online Member Exclusive #0491,Brand Awareness,Line OA,141635.43,2025-08-15,2025-08-21,General Public,Completed
+CMP00492,Flash Sale 24 Hours Midnight #0492,Flash Sale,Shopee / Lazada,94548.27,2025-02-16,2025-03-07,General Public,Active
+CMP00493,7.7 Mega Double Date #0493,Discount Promotion,Shopee / Lazada,337039.54,2025-09-20,2025-10-06,General Public,Active
+CMP00494,Flash Sale 24 Hours Midnight #0494,Flash Sale,Shopee / Lazada,80816.96,2025-12-11,2026-01-08,General Public,Active
+CMP00495,DIY PC Builder Special Bonus #0495,Discount Promotion,In-Store Branch,291535.03,2026-02-23,2026-02-26,DIY PC Builders,Completed
+CMP00496,JIB Super Sale Mid-Month #0496,Discount Promotion,Social Media,240076.98,2025-08-05,2025-08-19,General Public,Completed
+CMP00497,JIB Super Sale Mid-Month #0497,Discount Promotion,Social Media,297227.45,2026-04-24,2026-04-29,General Public,Completed
+CMP00498,DIY PC Builder Special Bonus #0498,Discount Promotion,In-Store Branch,296863.57,2025-07-29,2025-08-06,DIY PC Builders,Completed
+CMP00499,New Intel & RTX Launch Expo #0499,Product Launch,Social Media,479414.85,2025-07-11,2025-07-26,Gamers & Creators,Upcoming
+CMP00500,New Intel & RTX Launch Expo #0500,Product Launch,Social Media,573092.14,2025-07-12,2025-07-17,Gamers & Creators,Completed
+CMP00501,JIB Online Member Exclusive #0501,Brand Awareness,Line OA,163234.39,2025-03-10,2025-04-02,General Public,Active
+CMP00502,JIB Online Member Exclusive #0502,Brand Awareness,Line OA,75281.65,2025-07-21,2025-08-09,General Public,Cancelled
+CMP00503,JIB Super Sale Mid-Month #0503,Discount Promotion,Social Media,295698.14,2026-01-23,2026-01-26,General Public,Completed
+CMP00504,JIB Online Member Exclusive #0504,Brand Awareness,Line OA,105513.18,2025-08-06,2025-08-26,General Public,Active
+CMP00505,Flash Sale 24 Hours Midnight #0505,Flash Sale,Shopee / Lazada,77564.97,2025-06-27,2025-07-04,General Public,Upcoming
+CMP00506,Back to School Laptop Fair #0506,Seasonal Sale,Online Store,315049.42,2025-01-17,2025-02-14,Students & Education,Completed
+CMP00507,JIB Super Sale Mid-Month #0507,Discount Promotion,Social Media,113458.18,2025-05-04,2025-05-13,General Public,Completed
+CMP00508,Flash Sale 24 Hours Midnight #0508,Flash Sale,Shopee / Lazada,120328.63,2025-11-03,2025-11-27,General Public,Active
+CMP00509,JIB Super Sale Mid-Month #0509,Discount Promotion,Social Media,146867.86,2025-07-25,2025-08-11,General Public,Active
+CMP00510,JIB Super Sale Mid-Month #0510,Discount Promotion,Social Media,298696.69,2025-03-13,2025-04-01,General Public,Active
+CMP00511,Corporate IT Solution Fair #0511,Brand Awareness,Social Media,219583.53,2025-06-13,2025-07-04,Corporate / Office,Completed
+CMP00512,End of Year Tech Clearance #0512,Seasonal Sale,Online Store,556690.41,2025-05-02,2025-05-14,General Public,Cancelled
+CMP00513,JIB Online Member Exclusive #0513,Brand Awareness,Line OA,96060.11,2025-04-24,2025-05-10,General Public,Active
+CMP00514,Corporate IT Solution Fair #0514,Brand Awareness,Social Media,282315.53,2026-03-27,2026-04-22,Corporate / Office,Completed
+CMP00515,New Intel & RTX Launch Expo #0515,Product Launch,Social Media,318753.64,2025-10-12,2025-10-30,Gamers & Creators,Active
+CMP00516,New Intel & RTX Launch Expo #0516,Product Launch,Social Media,427493.78,2026-02-07,2026-02-26,Gamers & Creators,Completed
+CMP00517,7.7 Mega Double Date #0517,Discount Promotion,Shopee / Lazada,255163.69,2025-06-03,2025-06-18,General Public,Completed
+CMP00518,Gaming Gear Festival #0518,Product Launch,In-Store Branch,131125.19,2026-03-11,2026-03-21,Gamers & Creators,Completed
+CMP00519,Flash Sale 24 Hours Midnight #0519,Flash Sale,Shopee / Lazada,106238.59,2026-04-14,2026-04-18,General Public,Cancelled
+CMP00520,JIB Online Member Exclusive #0520,Brand Awareness,Line OA,106610.29,2025-09-29,2025-10-06,General Public,Active
+CMP00521,End of Year Tech Clearance #0521,Seasonal Sale,Online Store,572779.14,2025-11-28,2025-12-03,General Public,Upcoming
+CMP00522,Back to School Laptop Fair #0522,Seasonal Sale,Online Store,357351.57,2025-10-02,2025-10-28,Students & Education,Active
+CMP00523,New Intel & RTX Launch Expo #0523,Product Launch,Social Media,541168.82,2025-12-11,2026-01-02,Gamers & Creators,Upcoming
+CMP00524,Gaming Gear Festival #0524,Product Launch,In-Store Branch,179889.23,2026-02-16,2026-03-15,Gamers & Creators,Completed
+CMP00525,Gaming Gear Festival #0525,Product Launch,In-Store Branch,227810.55,2025-09-03,2025-09-12,Gamers & Creators,Active
+CMP00526,JIB Super Sale Mid-Month #0526,Discount Promotion,Social Media,292415.51,2025-04-19,2025-04-28,General Public,Active
+CMP00527,Flash Sale 24 Hours Midnight #0527,Flash Sale,Shopee / Lazada,119562.63,2026-04-14,2026-04-24,General Public,Completed
+CMP00528,New Intel & RTX Launch Expo #0528,Product Launch,Social Media,520831.72,2026-04-14,2026-04-24,Gamers & Creators,Completed
+CMP00529,New Intel & RTX Launch Expo #0529,Product Launch,Social Media,559488.54,2025-08-27,2025-09-16,Gamers & Creators,Active
+CMP00530,End of Year Tech Clearance #0530,Seasonal Sale,Online Store,413101.42,2025-09-20,2025-10-08,General Public,Upcoming
+CMP00531,Flash Sale 24 Hours Midnight #0531,Flash Sale,Shopee / Lazada,82023.33,2026-01-25,2026-02-23,General Public,Active
+CMP00532,End of Year Tech Clearance #0532,Seasonal Sale,Online Store,446883.65,2025-07-31,2025-08-04,General Public,Active
+CMP00533,7.7 Mega Double Date #0533,Discount Promotion,Shopee / Lazada,365993.47,2025-01-09,2025-01-20,General Public,Completed
+CMP00534,New Intel & RTX Launch Expo #0534,Product Launch,Social Media,378476.71,2025-06-01,2025-06-08,Gamers & Creators,Active
+CMP00535,Corporate IT Solution Fair #0535,Brand Awareness,Social Media,199860.3,2026-03-03,2026-03-13,Corporate / Office,Completed
+CMP00536,End of Year Tech Clearance #0536,Seasonal Sale,Online Store,537557.18,2025-05-12,2025-06-08,General Public,Cancelled
+CMP00537,Flash Sale 24 Hours Midnight #0537,Flash Sale,Shopee / Lazada,123277.22,2025-08-24,2025-09-01,General Public,Active
+CMP00538,7.7 Mega Double Date #0538,Discount Promotion,Shopee / Lazada,346494.9,2026-01-04,2026-01-24,General Public,Upcoming
+CMP00539,JIB Online Member Exclusive #0539,Brand Awareness,Line OA,122873.33,2025-11-25,2025-11-29,General Public,Upcoming
+CMP00540,Back to School Laptop Fair #0540,Seasonal Sale,Online Store,317053.89,2026-04-29,2026-05-28,Students & Education,Completed
+CMP00541,New Intel & RTX Launch Expo #0541,Product Launch,Social Media,552280.66,2025-03-12,2025-04-10,Gamers & Creators,Active
+CMP00542,7.7 Mega Double Date #0542,Discount Promotion,Shopee / Lazada,351719.88,2025-01-05,2025-01-14,General Public,Active
+CMP00543,Corporate IT Solution Fair #0543,Brand Awareness,Social Media,286780.74,2025-11-23,2025-12-17,Corporate / Office,Upcoming
+CMP00544,Flash Sale 24 Hours Midnight #0544,Flash Sale,Shopee / Lazada,103221.25,2025-01-09,2025-01-12,General Public,Completed
+CMP00545,JIB Super Sale Mid-Month #0545,Discount Promotion,Social Media,154948.15,2025-09-29,2025-10-25,General Public,Cancelled
+CMP00546,JIB Super Sale Mid-Month #0546,Discount Promotion,Social Media,239571.82,2025-09-15,2025-10-14,General Public,Completed
+CMP00547,7.7 Mega Double Date #0547,Discount Promotion,Shopee / Lazada,357315.62,2025-02-24,2025-03-02,General Public,Active
+CMP00548,Corporate IT Solution Fair #0548,Brand Awareness,Social Media,263042.88,2025-09-27,2025-10-08,Corporate / Office,Active
+CMP00549,New Intel & RTX Launch Expo #0549,Product Launch,Social Media,683719.12,2025-02-10,2025-02-24,Gamers & Creators,Completed
+CMP00550,Gaming Gear Festival #0550,Product Launch,In-Store Branch,130995.69,2025-12-23,2026-01-02,Gamers & Creators,Upcoming
+CMP00551,Back to School Laptop Fair #0551,Seasonal Sale,Online Store,312473.61,2025-12-01,2025-12-31,Students & Education,Active
+CMP00552,New Intel & RTX Launch Expo #0552,Product Launch,Social Media,521080.58,2025-07-14,2025-07-29,Gamers & Creators,Active
+CMP00553,JIB Super Sale Mid-Month #0553,Discount Promotion,Social Media,116537.22,2025-12-26,2026-01-03,General Public,Upcoming
+CMP00554,End of Year Tech Clearance #0554,Seasonal Sale,Online Store,590843.91,2025-10-17,2025-11-16,General Public,Upcoming
+CMP00555,JIB Super Sale Mid-Month #0555,Discount Promotion,Social Media,280254.59,2025-04-28,2025-05-07,General Public,Completed
+CMP00556,Corporate IT Solution Fair #0556,Brand Awareness,Social Media,109312.39,2025-09-01,2025-09-12,Corporate / Office,Active
+CMP00557,DIY PC Builder Special Bonus #0557,Discount Promotion,In-Store Branch,249607.27,2026-04-06,2026-04-26,DIY PC Builders,Active
+CMP00558,End of Year Tech Clearance #0558,Seasonal Sale,Online Store,455462.64,2025-01-09,2025-01-18,General Public,Completed
+CMP00559,New Intel & RTX Launch Expo #0559,Product Launch,Social Media,419710.76,2026-04-21,2026-04-26,Gamers & Creators,Completed
+CMP00560,Corporate IT Solution Fair #0560,Brand Awareness,Social Media,177831.32,2026-03-04,2026-04-03,Corporate / Office,Upcoming
+CMP00561,End of Year Tech Clearance #0561,Seasonal Sale,Online Store,508910.81,2025-07-16,2025-08-12,General Public,Completed
+CMP00562,Back to School Laptop Fair #0562,Seasonal Sale,Online Store,393580.83,2025-09-14,2025-10-10,Students & Education,Active
+CMP00563,New Intel & RTX Launch Expo #0563,Product Launch,Social Media,330407.3,2025-04-29,2025-05-28,Gamers & Creators,Completed
+CMP00564,Corporate IT Solution Fair #0564,Brand Awareness,Social Media,179340.61,2026-05-04,2026-05-26,Corporate / Office,Completed
+CMP00565,JIB Super Sale Mid-Month #0565,Discount Promotion,Social Media,256709.63,2025-11-21,2025-12-02,General Public,Completed
+CMP00566,Gaming Gear Festival #0566,Product Launch,In-Store Branch,239994.28,2025-07-02,2025-07-22,Gamers & Creators,Completed
+CMP00567,Corporate IT Solution Fair #0567,Brand Awareness,Social Media,117138.82,2025-12-05,2025-12-20,Corporate / Office,Completed
+CMP00568,Gaming Gear Festival #0568,Product Launch,In-Store Branch,93946.46,2026-01-01,2026-01-06,Gamers & Creators,Active
+CMP00569,7.7 Mega Double Date #0569,Discount Promotion,Shopee / Lazada,295003.47,2026-01-14,2026-01-29,General Public,Active
+CMP00570,JIB Super Sale Mid-Month #0570,Discount Promotion,Social Media,188947.17,2026-04-28,2026-05-10,General Public,Completed
+CMP00571,Back to School Laptop Fair #0571,Seasonal Sale,Online Store,196847.95,2025-03-09,2025-03-14,Students & Education,Completed
+CMP00572,JIB Online Member Exclusive #0572,Brand Awareness,Line OA,72395.15,2025-09-20,2025-10-06,General Public,Active
+CMP00573,JIB Online Member Exclusive #0573,Brand Awareness,Line OA,131765.26,2025-02-17,2025-03-11,General Public,Active
+CMP00574,New Intel & RTX Launch Expo #0574,Product Launch,Social Media,465524.03,2025-01-07,2025-01-19,Gamers & Creators,Completed
+CMP00575,JIB Online Member Exclusive #0575,Brand Awareness,Line OA,128635.25,2026-04-09,2026-04-19,General Public,Active
+CMP00576,New Intel & RTX Launch Expo #0576,Product Launch,Social Media,407567.59,2025-03-28,2025-04-04,Gamers & Creators,Active
+CMP00577,7.7 Mega Double Date #0577,Discount Promotion,Shopee / Lazada,330402.88,2025-02-02,2025-02-10,General Public,Completed
+CMP00578,Flash Sale 24 Hours Midnight #0578,Flash Sale,Shopee / Lazada,86112.49,2026-02-05,2026-02-10,General Public,Upcoming
+CMP00579,Flash Sale 24 Hours Midnight #0579,Flash Sale,Shopee / Lazada,69554.82,2025-11-01,2025-11-23,General Public,Active
+CMP00580,DIY PC Builder Special Bonus #0580,Discount Promotion,In-Store Branch,196409.96,2025-01-04,2025-01-19,DIY PC Builders,Completed
+CMP00581,End of Year Tech Clearance #0581,Seasonal Sale,Online Store,400715.68,2025-08-14,2025-08-27,General Public,Upcoming
+CMP00582,Corporate IT Solution Fair #0582,Brand Awareness,Social Media,164133.03,2025-03-11,2025-03-23,Corporate / Office,Upcoming
+CMP00583,Gaming Gear Festival #0583,Product Launch,In-Store Branch,110198.34,2025-09-03,2025-09-16,Gamers & Creators,Active
+CMP00584,End of Year Tech Clearance #0584,Seasonal Sale,Online Store,493235.22,2025-05-30,2025-06-25,General Public,Completed
+CMP00585,Corporate IT Solution Fair #0585,Brand Awareness,Social Media,165177.25,2026-02-05,2026-02-15,Corporate / Office,Active
+CMP00586,New Intel & RTX Launch Expo #0586,Product Launch,Social Media,672826.86,2025-07-06,2025-07-12,Gamers & Creators,Active
+CMP00587,JIB Online Member Exclusive #0587,Brand Awareness,Line OA,152114.15,2025-04-03,2025-04-27,General Public,Active
+CMP00588,Flash Sale 24 Hours Midnight #0588,Flash Sale,Shopee / Lazada,70964.84,2026-04-28,2026-05-23,General Public,Completed
+CMP00589,Back to School Laptop Fair #0589,Seasonal Sale,Online Store,348914.21,2026-02-24,2026-03-26,Students & Education,Completed
+CMP00590,Flash Sale 24 Hours Midnight #0590,Flash Sale,Shopee / Lazada,80283.26,2025-03-13,2025-04-05,General Public,Active
+CMP00591,7.7 Mega Double Date #0591,Discount Promotion,Shopee / Lazada,436723.03,2026-01-02,2026-01-18,General Public,Active
+CMP00592,Corporate IT Solution Fair #0592,Brand Awareness,Social Media,180161.02,2025-09-03,2025-09-24,Corporate / Office,Completed
+CMP00593,New Intel & RTX Launch Expo #0593,Product Launch,Social Media,616288.37,2025-10-06,2025-10-10,Gamers & Creators,Active
+CMP00594,JIB Online Member Exclusive #0594,Brand Awareness,Line OA,169728.15,2025-11-01,2025-11-24,General Public,Active
+CMP00595,Gaming Gear Festival #0595,Product Launch,In-Store Branch,140351.5,2025-12-03,2025-12-27,Gamers & Creators,Completed
+CMP00596,JIB Super Sale Mid-Month #0596,Discount Promotion,Social Media,235494.38,2025-10-16,2025-11-08,General Public,Active
+CMP00597,End of Year Tech Clearance #0597,Seasonal Sale,Online Store,400659.44,2026-05-10,2026-06-07,General Public,Active
+CMP00598,DIY PC Builder Special Bonus #0598,Discount Promotion,In-Store Branch,291776.2,2025-04-24,2025-05-13,DIY PC Builders,Completed
+CMP00599,Corporate IT Solution Fair #0599,Brand Awareness,Social Media,174823.91,2025-04-24,2025-05-11,Corporate / Office,Completed
+CMP00600,Corporate IT Solution Fair #0600,Brand Awareness,Social Media,130148.99,2025-12-20,2026-01-08,Corporate / Office,Cancelled
+CMP00601,Flash Sale 24 Hours Midnight #0601,Flash Sale,Shopee / Lazada,91597.54,2025-02-23,2025-03-07,General Public,Cancelled
+CMP00602,Back to School Laptop Fair #0602,Seasonal Sale,Online Store,185418.79,2026-03-02,2026-03-28,Students & Education,Active
+CMP00603,Flash Sale 24 Hours Midnight #0603,Flash Sale,Shopee / Lazada,102111.48,2026-02-06,2026-02-15,General Public,Active
+CMP00604,Back to School Laptop Fair #0604,Seasonal Sale,Online Store,324190.82,2025-08-13,2025-09-08,Students & Education,Active
+CMP00605,DIY PC Builder Special Bonus #0605,Discount Promotion,In-Store Branch,283479.17,2025-01-23,2025-02-20,DIY PC Builders,Active
+CMP00606,End of Year Tech Clearance #0606,Seasonal Sale,Online Store,486998.77,2025-11-28,2025-12-04,General Public,Active
+CMP00607,Gaming Gear Festival #0607,Product Launch,In-Store Branch,173824.75,2025-09-22,2025-09-30,Gamers & Creators,Active
+CMP00608,New Intel & RTX Launch Expo #0608,Product Launch,Social Media,392742.22,2026-05-06,2026-05-23,Gamers & Creators,Completed
+CMP00609,7.7 Mega Double Date #0609,Discount Promotion,Shopee / Lazada,397192.37,2025-04-06,2025-04-29,General Public,Active
+CMP00610,Corporate IT Solution Fair #0610,Brand Awareness,Social Media,189915.0,2026-03-29,2026-04-07,Corporate / Office,Completed
+CMP00611,JIB Super Sale Mid-Month #0611,Discount Promotion,Social Media,141156.9,2025-12-27,2026-01-05,General Public,Completed
+CMP00612,Back to School Laptop Fair #0612,Seasonal Sale,Online Store,349875.59,2025-10-23,2025-10-29,Students & Education,Completed
+CMP00613,End of Year Tech Clearance #0613,Seasonal Sale,Online Store,410142.65,2025-06-16,2025-06-25,General Public,Active
+CMP00614,Flash Sale 24 Hours Midnight #0614,Flash Sale,Shopee / Lazada,81340.41,2025-09-28,2025-10-21,General Public,Active
+CMP00615,New Intel & RTX Launch Expo #0615,Product Launch,Social Media,439169.85,2025-10-28,2025-11-03,Gamers & Creators,Upcoming
+CMP00616,Corporate IT Solution Fair #0616,Brand Awareness,Social Media,234717.77,2025-03-30,2025-04-28,Corporate / Office,Upcoming
+CMP00617,Corporate IT Solution Fair #0617,Brand Awareness,Social Media,234422.02,2025-10-30,2025-11-04,Corporate / Office,Active
+CMP00618,Gaming Gear Festival #0618,Product Launch,In-Store Branch,111117.57,2025-06-06,2025-06-12,Gamers & Creators,Completed
+CMP00619,JIB Online Member Exclusive #0619,Brand Awareness,Line OA,131571.1,2025-07-18,2025-08-03,General Public,Completed
+CMP00620,New Intel & RTX Launch Expo #0620,Product Launch,Social Media,554200.66,2025-04-06,2025-04-24,Gamers & Creators,Completed
+CMP00621,7.7 Mega Double Date #0621,Discount Promotion,Shopee / Lazada,346892.61,2025-10-12,2025-10-20,General Public,Active
+CMP00622,End of Year Tech Clearance #0622,Seasonal Sale,Online Store,466793.49,2026-03-08,2026-03-25,General Public,Upcoming
+CMP00623,JIB Super Sale Mid-Month #0623,Discount Promotion,Social Media,139025.7,2025-09-06,2025-09-13,General Public,Active
+CMP00624,JIB Online Member Exclusive #0624,Brand Awareness,Line OA,119396.38,2025-09-16,2025-10-09,General Public,Completed
+CMP00625,New Intel & RTX Launch Expo #0625,Product Launch,Social Media,477540.7,2025-12-30,2026-01-28,Gamers & Creators,Active
+CMP00626,Corporate IT Solution Fair #0626,Brand Awareness,Social Media,252211.32,2025-01-16,2025-02-13,Corporate / Office,Active
+CMP00627,DIY PC Builder Special Bonus #0627,Discount Promotion,In-Store Branch,186394.17,2025-04-26,2025-05-16,DIY PC Builders,Completed
+CMP00628,Corporate IT Solution Fair #0628,Brand Awareness,Social Media,253183.91,2026-01-16,2026-02-12,Corporate / Office,Completed
+CMP00629,Back to School Laptop Fair #0629,Seasonal Sale,Online Store,216972.23,2025-10-21,2025-10-27,Students & Education,Completed
+CMP00630,End of Year Tech Clearance #0630,Seasonal Sale,Online Store,514875.18,2025-10-05,2025-11-03,General Public,Completed
+CMP00631,Flash Sale 24 Hours Midnight #0631,Flash Sale,Shopee / Lazada,148977.57,2025-10-07,2025-10-16,General Public,Active
+CMP00632,Gaming Gear Festival #0632,Product Launch,In-Store Branch,249883.15,2025-06-02,2025-07-02,Gamers & Creators,Completed
+CMP00633,End of Year Tech Clearance #0633,Seasonal Sale,Online Store,280444.05,2026-03-18,2026-04-16,General Public,Upcoming
+CMP00634,Back to School Laptop Fair #0634,Seasonal Sale,Online Store,209236.51,2026-02-02,2026-03-02,Students & Education,Upcoming
+CMP00635,Corporate IT Solution Fair #0635,Brand Awareness,Social Media,272209.74,2025-12-19,2026-01-02,Corporate / Office,Completed
+CMP00636,New Intel & RTX Launch Expo #0636,Product Launch,Social Media,355693.99,2025-03-26,2025-04-17,Gamers & Creators,Active
+CMP00637,Gaming Gear Festival #0637,Product Launch,In-Store Branch,176912.64,2026-02-17,2026-02-21,Gamers & Creators,Completed
+CMP00638,Corporate IT Solution Fair #0638,Brand Awareness,Social Media,164730.72,2025-10-03,2025-10-11,Corporate / Office,Completed
+CMP00639,DIY PC Builder Special Bonus #0639,Discount Promotion,In-Store Branch,339051.39,2025-10-21,2025-11-01,DIY PC Builders,Completed
+CMP00640,Back to School Laptop Fair #0640,Seasonal Sale,Online Store,346422.76,2025-03-11,2025-04-07,Students & Education,Upcoming
+CMP00641,DIY PC Builder Special Bonus #0641,Discount Promotion,In-Store Branch,149184.28,2026-03-20,2026-04-12,DIY PC Builders,Upcoming
+CMP00642,Gaming Gear Festival #0642,Product Launch,In-Store Branch,134756.44,2025-03-16,2025-04-10,Gamers & Creators,Active
+CMP00643,New Intel & RTX Launch Expo #0643,Product Launch,Social Media,530970.21,2025-09-08,2025-09-15,Gamers & Creators,Active
+CMP00644,New Intel & RTX Launch Expo #0644,Product Launch,Social Media,330206.51,2025-07-12,2025-07-29,Gamers & Creators,Completed
+CMP00645,Back to School Laptop Fair #0645,Seasonal Sale,Online Store,337450.6,2025-07-26,2025-08-14,Students & Education,Completed
+CMP00646,End of Year Tech Clearance #0646,Seasonal Sale,Online Store,364551.25,2025-08-21,2025-09-08,General Public,Active
+CMP00647,Back to School Laptop Fair #0647,Seasonal Sale,Online Store,308710.14,2026-01-10,2026-01-27,Students & Education,Completed
+CMP00648,Back to School Laptop Fair #0648,Seasonal Sale,Online Store,249428.97,2026-02-12,2026-03-04,Students & Education,Cancelled
+CMP00649,Gaming Gear Festival #0649,Product Launch,In-Store Branch,134887.08,2025-09-11,2025-09-22,Gamers & Creators,Active
+CMP00650,JIB Online Member Exclusive #0650,Brand Awareness,Line OA,127937.05,2025-10-23,2025-10-30,General Public,Completed
+CMP00651,End of Year Tech Clearance #0651,Seasonal Sale,Online Store,516788.91,2026-04-03,2026-04-27,General Public,Active
+CMP00652,Flash Sale 24 Hours Midnight #0652,Flash Sale,Shopee / Lazada,142943.29,2025-01-09,2025-01-15,General Public,Active
+CMP00653,Flash Sale 24 Hours Midnight #0653,Flash Sale,Shopee / Lazada,70231.82,2025-01-01,2025-01-17,General Public,Completed
+CMP00654,7.7 Mega Double Date #0654,Discount Promotion,Shopee / Lazada,290559.65,2026-03-28,2026-04-20,General Public,Upcoming
+CMP00655,DIY PC Builder Special Bonus #0655,Discount Promotion,In-Store Branch,202900.14,2025-02-17,2025-03-12,DIY PC Builders,Active
+CMP00656,7.7 Mega Double Date #0656,Discount Promotion,Shopee / Lazada,387681.28,2025-01-27,2025-02-11,General Public,Completed
+CMP00657,Gaming Gear Festival #0657,Product Launch,In-Store Branch,95503.86,2025-08-08,2025-08-31,Gamers & Creators,Active
+CMP00658,Gaming Gear Festival #0658,Product Launch,In-Store Branch,102558.96,2025-09-02,2025-09-07,Gamers & Creators,Active
+CMP00659,Flash Sale 24 Hours Midnight #0659,Flash Sale,Shopee / Lazada,119559.71,2025-01-05,2025-01-08,General Public,Upcoming
+CMP00660,New Intel & RTX Launch Expo #0660,Product Launch,Social Media,491080.1,2025-12-22,2025-12-29,Gamers & Creators,Active
+CMP00661,Back to School Laptop Fair #0661,Seasonal Sale,Online Store,175606.79,2026-01-10,2026-02-07,Students & Education,Active
+CMP00662,DIY PC Builder Special Bonus #0662,Discount Promotion,In-Store Branch,297895.91,2025-03-12,2025-03-27,DIY PC Builders,Completed
+CMP00663,7.7 Mega Double Date #0663,Discount Promotion,Shopee / Lazada,242855.92,2025-11-25,2025-12-19,General Public,Completed
+CMP00664,JIB Super Sale Mid-Month #0664,Discount Promotion,Social Media,132823.31,2025-11-09,2025-12-02,General Public,Active
+CMP00665,Gaming Gear Festival #0665,Product Launch,In-Store Branch,105733.6,2025-11-18,2025-12-14,Gamers & Creators,Completed
+CMP00666,Flash Sale 24 Hours Midnight #0666,Flash Sale,Shopee / Lazada,58668.8,2026-03-17,2026-03-26,General Public,Active
+CMP00667,Back to School Laptop Fair #0667,Seasonal Sale,Online Store,246007.98,2025-10-29,2025-11-24,Students & Education,Cancelled
+CMP00668,End of Year Tech Clearance #0668,Seasonal Sale,Online Store,336725.23,2026-02-10,2026-02-17,General Public,Completed
+CMP00669,Gaming Gear Festival #0669,Product Launch,In-Store Branch,182001.34,2025-10-11,2025-11-02,Gamers & Creators,Completed
+CMP00670,JIB Super Sale Mid-Month #0670,Discount Promotion,Social Media,231681.07,2026-03-11,2026-04-10,General Public,Active
+CMP00671,JIB Online Member Exclusive #0671,Brand Awareness,Line OA,82637.58,2025-11-07,2025-11-26,General Public,Active
+CMP00672,JIB Super Sale Mid-Month #0672,Discount Promotion,Social Media,290934.3,2026-02-06,2026-03-06,General Public,Completed
+CMP00673,Back to School Laptop Fair #0673,Seasonal Sale,Online Store,309520.58,2025-05-04,2025-05-22,Students & Education,Active
+CMP00674,JIB Super Sale Mid-Month #0674,Discount Promotion,Social Media,126396.58,2025-07-04,2025-07-17,General Public,Upcoming
+CMP00675,Corporate IT Solution Fair #0675,Brand Awareness,Social Media,209271.24,2025-08-04,2025-08-18,Corporate / Office,Active
+CMP00676,Flash Sale 24 Hours Midnight #0676,Flash Sale,Shopee / Lazada,57299.18,2026-05-04,2026-05-31,General Public,Completed
+CMP00677,JIB Super Sale Mid-Month #0677,Discount Promotion,Social Media,107965.37,2025-05-15,2025-05-24,General Public,Active
+CMP00678,New Intel & RTX Launch Expo #0678,Product Launch,Social Media,551428.28,2025-09-17,2025-09-29,Gamers & Creators,Completed
+CMP00679,New Intel & RTX Launch Expo #0679,Product Launch,Social Media,460910.96,2025-08-05,2025-08-30,Gamers & Creators,Completed
+CMP00680,JIB Online Member Exclusive #0680,Brand Awareness,Line OA,93296.13,2025-11-12,2025-11-19,General Public,Active
+CMP00681,JIB Online Member Exclusive #0681,Brand Awareness,Line OA,176917.61,2026-04-17,2026-04-26,General Public,Active
+CMP00682,End of Year Tech Clearance #0682,Seasonal Sale,Online Store,472002.99,2025-07-20,2025-08-10,General Public,Upcoming
+CMP00683,Back to School Laptop Fair #0683,Seasonal Sale,Online Store,259371.51,2025-06-08,2025-07-03,Students & Education,Cancelled
+CMP00684,Gaming Gear Festival #0684,Product Launch,In-Store Branch,94656.18,2025-01-30,2025-02-09,Gamers & Creators,Completed
+CMP00685,Flash Sale 24 Hours Midnight #0685,Flash Sale,Shopee / Lazada,55502.86,2025-11-10,2025-12-02,General Public,Completed
+CMP00686,7.7 Mega Double Date #0686,Discount Promotion,Shopee / Lazada,412370.18,2025-03-03,2025-03-06,General Public,Completed
+CMP00687,7.7 Mega Double Date #0687,Discount Promotion,Shopee / Lazada,356901.61,2025-09-12,2025-09-26,General Public,Completed
+CMP00688,DIY PC Builder Special Bonus #0688,Discount Promotion,In-Store Branch,149194.04,2025-03-27,2025-04-10,DIY PC Builders,Completed
+CMP00689,DIY PC Builder Special Bonus #0689,Discount Promotion,In-Store Branch,297428.97,2026-01-11,2026-01-17,DIY PC Builders,Active
+CMP00690,New Intel & RTX Launch Expo #0690,Product Launch,Social Media,325548.8,2025-05-20,2025-06-08,Gamers & Creators,Completed
+CMP00691,Corporate IT Solution Fair #0691,Brand Awareness,Social Media,199229.51,2025-11-18,2025-11-23,Corporate / Office,Completed
+CMP00692,JIB Super Sale Mid-Month #0692,Discount Promotion,Social Media,213377.23,2025-09-13,2025-10-13,General Public,Active
+CMP00693,DIY PC Builder Special Bonus #0693,Discount Promotion,In-Store Branch,325681.74,2026-01-31,2026-02-06,DIY PC Builders,Completed
+CMP00694,Back to School Laptop Fair #0694,Seasonal Sale,Online Store,277206.22,2025-04-27,2025-05-23,Students & Education,Active
+CMP00695,JIB Super Sale Mid-Month #0695,Discount Promotion,Social Media,194352.92,2025-05-06,2025-05-10,General Public,Active
+CMP00696,7.7 Mega Double Date #0696,Discount Promotion,Shopee / Lazada,210609.07,2025-04-02,2025-05-02,General Public,Upcoming
+CMP00697,New Intel & RTX Launch Expo #0697,Product Launch,Social Media,399305.27,2025-04-25,2025-05-08,Gamers & Creators,Upcoming
+CMP00698,End of Year Tech Clearance #0698,Seasonal Sale,Online Store,277260.47,2025-05-19,2025-06-17,General Public,Active
+CMP00699,JIB Online Member Exclusive #0699,Brand Awareness,Line OA,81521.32,2025-12-11,2025-12-15,General Public,Upcoming
+CMP00700,JIB Super Sale Mid-Month #0700,Discount Promotion,Social Media,113785.29,2026-05-04,2026-05-19,General Public,Completed
+CMP00701,DIY PC Builder Special Bonus #0701,Discount Promotion,In-Store Branch,191460.49,2026-02-01,2026-03-03,DIY PC Builders,Active
+CMP00702,Flash Sale 24 Hours Midnight #0702,Flash Sale,Shopee / Lazada,70067.12,2025-01-05,2025-01-19,General Public,Completed
+CMP00703,DIY PC Builder Special Bonus #0703,Discount Promotion,In-Store Branch,175794.32,2026-01-14,2026-02-05,DIY PC Builders,Active
+CMP00704,Flash Sale 24 Hours Midnight #0704,Flash Sale,Shopee / Lazada,69542.24,2026-01-31,2026-02-27,General Public,Upcoming
+CMP00705,Gaming Gear Festival #0705,Product Launch,In-Store Branch,238507.58,2025-03-19,2025-03-22,Gamers & Creators,Active
+CMP00706,JIB Online Member Exclusive #0706,Brand Awareness,Line OA,160748.88,2025-06-27,2025-07-20,General Public,Upcoming
+CMP00707,End of Year Tech Clearance #0707,Seasonal Sale,Online Store,480056.35,2025-01-01,2025-01-28,General Public,Upcoming
+CMP00708,DIY PC Builder Special Bonus #0708,Discount Promotion,In-Store Branch,241857.33,2025-02-23,2025-03-04,DIY PC Builders,Active
+CMP00709,Flash Sale 24 Hours Midnight #0709,Flash Sale,Shopee / Lazada,147255.92,2026-05-08,2026-05-12,General Public,Active
+CMP00710,DIY PC Builder Special Bonus #0710,Discount Promotion,In-Store Branch,331893.11,2025-02-17,2025-02-21,DIY PC Builders,Upcoming
+CMP00711,JIB Online Member Exclusive #0711,Brand Awareness,Line OA,167469.35,2025-07-31,2025-08-25,General Public,Completed
+CMP00712,Back to School Laptop Fair #0712,Seasonal Sale,Online Store,276356.94,2025-10-25,2025-10-31,Students & Education,Completed
+CMP00713,New Intel & RTX Launch Expo #0713,Product Launch,Social Media,527128.29,2025-02-08,2025-03-01,Gamers & Creators,Completed
+CMP00714,7.7 Mega Double Date #0714,Discount Promotion,Shopee / Lazada,278297.28,2025-05-02,2025-05-14,General Public,Active
+CMP00715,New Intel & RTX Launch Expo #0715,Product Launch,Social Media,594141.15,2025-12-25,2026-01-23,Gamers & Creators,Active
+CMP00716,DIY PC Builder Special Bonus #0716,Discount Promotion,In-Store Branch,337017.58,2025-04-30,2025-05-05,DIY PC Builders,Active
+CMP00717,Corporate IT Solution Fair #0717,Brand Awareness,Social Media,121131.55,2025-02-25,2025-03-04,Corporate / Office,Completed
+CMP00718,End of Year Tech Clearance #0718,Seasonal Sale,Online Store,437573.59,2025-07-28,2025-08-03,General Public,Cancelled
+CMP00719,Gaming Gear Festival #0719,Product Launch,In-Store Branch,158768.92,2025-08-20,2025-09-01,Gamers & Creators,Upcoming
+CMP00720,Back to School Laptop Fair #0720,Seasonal Sale,Online Store,321513.71,2025-03-22,2025-04-19,Students & Education,Upcoming
+CMP00721,Corporate IT Solution Fair #0721,Brand Awareness,Social Media,267184.95,2025-01-21,2025-01-30,Corporate / Office,Active
+CMP00722,Back to School Laptop Fair #0722,Seasonal Sale,Online Store,392100.0,2025-12-31,2026-01-10,Students & Education,Active
+CMP00723,JIB Super Sale Mid-Month #0723,Discount Promotion,Social Media,152033.36,2025-12-13,2025-12-25,General Public,Cancelled
+CMP00724,JIB Super Sale Mid-Month #0724,Discount Promotion,Social Media,270920.26,2026-05-03,2026-05-18,General Public,Completed
+CMP00725,JIB Online Member Exclusive #0725,Brand Awareness,Line OA,115445.19,2025-05-08,2025-05-14,General Public,Upcoming
+CMP00726,7.7 Mega Double Date #0726,Discount Promotion,Shopee / Lazada,218500.76,2025-03-04,2025-03-07,General Public,Completed
+CMP00727,Gaming Gear Festival #0727,Product Launch,In-Store Branch,220024.48,2025-03-08,2025-03-17,Gamers & Creators,Active
+CMP00728,Back to School Laptop Fair #0728,Seasonal Sale,Online Store,214705.16,2025-10-26,2025-11-16,Students & Education,Upcoming
+CMP00729,JIB Super Sale Mid-Month #0729,Discount Promotion,Social Media,280499.22,2025-02-03,2025-02-12,General Public,Completed
+CMP00730,7.7 Mega Double Date #0730,Discount Promotion,Shopee / Lazada,448806.85,2025-02-17,2025-03-19,General Public,Active
+CMP00731,JIB Super Sale Mid-Month #0731,Discount Promotion,Social Media,110127.54,2026-04-28,2026-05-15,General Public,Upcoming
+CMP00732,New Intel & RTX Launch Expo #0732,Product Launch,Social Media,457999.48,2026-02-25,2026-03-23,Gamers & Creators,Active
+CMP00733,New Intel & RTX Launch Expo #0733,Product Launch,Social Media,385886.44,2025-03-30,2025-04-13,Gamers & Creators,Active
+CMP00734,DIY PC Builder Special Bonus #0734,Discount Promotion,In-Store Branch,127969.37,2025-08-17,2025-08-24,DIY PC Builders,Completed
+CMP00735,Gaming Gear Festival #0735,Product Launch,In-Store Branch,164811.57,2025-11-28,2025-12-10,Gamers & Creators,Upcoming
+CMP00736,Flash Sale 24 Hours Midnight #0736,Flash Sale,Shopee / Lazada,77977.6,2025-02-01,2025-02-06,General Public,Active
+CMP00737,Gaming Gear Festival #0737,Product Launch,In-Store Branch,169388.39,2025-11-26,2025-12-24,Gamers & Creators,Completed
+CMP00738,JIB Online Member Exclusive #0738,Brand Awareness,Line OA,178728.43,2026-02-11,2026-02-14,General Public,Completed
+CMP00739,End of Year Tech Clearance #0739,Seasonal Sale,Online Store,523502.29,2025-09-03,2025-09-23,General Public,Active
+CMP00740,Corporate IT Solution Fair #0740,Brand Awareness,Social Media,177676.25,2025-09-15,2025-09-28,Corporate / Office,Active
+CMP00741,End of Year Tech Clearance #0741,Seasonal Sale,Online Store,260256.21,2025-11-02,2025-11-12,General Public,Upcoming
+CMP00742,DIY PC Builder Special Bonus #0742,Discount Promotion,In-Store Branch,348052.2,2025-01-30,2025-02-27,DIY PC Builders,Completed
+CMP00743,Corporate IT Solution Fair #0743,Brand Awareness,Social Media,120026.87,2025-04-30,2025-05-08,Corporate / Office,Completed
+CMP00744,DIY PC Builder Special Bonus #0744,Discount Promotion,In-Store Branch,301984.56,2025-10-01,2025-10-30,DIY PC Builders,Completed
+CMP00745,Gaming Gear Festival #0745,Product Launch,In-Store Branch,247052.99,2025-10-22,2025-11-21,Gamers & Creators,Active
+CMP00746,7.7 Mega Double Date #0746,Discount Promotion,Shopee / Lazada,377755.85,2025-04-01,2025-04-11,General Public,Upcoming
+CMP00747,End of Year Tech Clearance #0747,Seasonal Sale,Online Store,259872.3,2026-04-13,2026-05-04,General Public,Completed
+CMP00748,Corporate IT Solution Fair #0748,Brand Awareness,Social Media,212621.78,2025-10-16,2025-10-23,Corporate / Office,Active
+CMP00749,Flash Sale 24 Hours Midnight #0749,Flash Sale,Shopee / Lazada,67555.68,2025-10-05,2025-10-17,General Public,Active
+CMP00750,JIB Super Sale Mid-Month #0750,Discount Promotion,Social Media,143761.79,2025-04-30,2025-05-22,General Public,Completed
+CMP00751,JIB Super Sale Mid-Month #0751,Discount Promotion,Social Media,140292.88,2025-06-19,2025-07-11,General Public,Active
+CMP00752,7.7 Mega Double Date #0752,Discount Promotion,Shopee / Lazada,453285.23,2026-04-16,2026-05-14,General Public,Active
+CMP00753,JIB Super Sale Mid-Month #0753,Discount Promotion,Social Media,240939.27,2025-03-17,2025-04-07,General Public,Active
+CMP00754,Back to School Laptop Fair #0754,Seasonal Sale,Online Store,365167.37,2026-03-10,2026-03-29,Students & Education,Cancelled
+CMP00755,End of Year Tech Clearance #0755,Seasonal Sale,Online Store,388458.45,2025-12-27,2026-01-20,General Public,Active
+CMP00756,DIY PC Builder Special Bonus #0756,Discount Promotion,In-Store Branch,344447.95,2025-06-15,2025-06-22,DIY PC Builders,Completed
+CMP00757,New Intel & RTX Launch Expo #0757,Product Launch,Social Media,684264.84,2026-02-10,2026-03-05,Gamers & Creators,Completed
+CMP00758,7.7 Mega Double Date #0758,Discount Promotion,Shopee / Lazada,408068.12,2025-12-29,2026-01-18,General Public,Upcoming
+CMP00759,End of Year Tech Clearance #0759,Seasonal Sale,Online Store,456132.55,2025-04-25,2025-05-19,General Public,Active
+CMP00760,DIY PC Builder Special Bonus #0760,Discount Promotion,In-Store Branch,187738.97,2026-01-11,2026-02-05,DIY PC Builders,Active
+CMP00761,JIB Super Sale Mid-Month #0761,Discount Promotion,Social Media,289739.63,2026-05-01,2026-05-26,General Public,Active
+CMP00762,Corporate IT Solution Fair #0762,Brand Awareness,Social Media,220477.73,2025-01-17,2025-01-25,Corporate / Office,Upcoming
+CMP00763,Corporate IT Solution Fair #0763,Brand Awareness,Social Media,213110.05,2025-04-24,2025-05-17,Corporate / Office,Upcoming
+CMP00764,7.7 Mega Double Date #0764,Discount Promotion,Shopee / Lazada,223341.99,2025-06-19,2025-07-15,General Public,Active
+CMP00765,End of Year Tech Clearance #0765,Seasonal Sale,Online Store,559862.09,2025-03-27,2025-04-19,General Public,Active
+CMP00766,End of Year Tech Clearance #0766,Seasonal Sale,Online Store,342824.35,2025-08-17,2025-08-20,General Public,Active
+CMP00767,Back to School Laptop Fair #0767,Seasonal Sale,Online Store,346755.0,2025-06-29,2025-07-10,Students & Education,Completed
+CMP00768,JIB Super Sale Mid-Month #0768,Discount Promotion,Social Media,246516.9,2025-07-17,2025-08-03,General Public,Cancelled
+CMP00769,New Intel & RTX Launch Expo #0769,Product Launch,Social Media,440492.47,2025-09-10,2025-09-25,Gamers & Creators,Active
+CMP00770,Flash Sale 24 Hours Midnight #0770,Flash Sale,Shopee / Lazada,107805.55,2026-02-08,2026-03-10,General Public,Completed
+CMP00771,Gaming Gear Festival #0771,Product Launch,In-Store Branch,92530.6,2025-03-25,2025-04-11,Gamers & Creators,Upcoming
+CMP00772,DIY PC Builder Special Bonus #0772,Discount Promotion,In-Store Branch,180059.37,2025-01-11,2025-01-24,DIY PC Builders,Active
+CMP00773,End of Year Tech Clearance #0773,Seasonal Sale,Online Store,306316.57,2025-03-29,2025-04-13,General Public,Active
+CMP00774,Back to School Laptop Fair #0774,Seasonal Sale,Online Store,396319.03,2025-06-23,2025-07-15,Students & Education,Upcoming
+CMP00775,JIB Super Sale Mid-Month #0775,Discount Promotion,Social Media,132999.44,2025-08-09,2025-09-01,General Public,Upcoming
+CMP00776,7.7 Mega Double Date #0776,Discount Promotion,Shopee / Lazada,299328.37,2025-01-28,2025-02-03,General Public,Cancelled
+CMP00777,New Intel & RTX Launch Expo #0777,Product Launch,Social Media,588815.24,2025-12-23,2026-01-12,Gamers & Creators,Completed
+CMP00778,DIY PC Builder Special Bonus #0778,Discount Promotion,In-Store Branch,188402.15,2025-12-05,2025-12-17,DIY PC Builders,Active
+CMP00779,New Intel & RTX Launch Expo #0779,Product Launch,Social Media,635941.8,2025-10-20,2025-11-09,Gamers & Creators,Active
+CMP00780,End of Year Tech Clearance #0780,Seasonal Sale,Online Store,280669.93,2025-01-02,2025-01-18,General Public,Upcoming
+CMP00781,Corporate IT Solution Fair #0781,Brand Awareness,Social Media,119397.38,2025-09-03,2025-09-12,Corporate / Office,Active
+CMP00782,DIY PC Builder Special Bonus #0782,Discount Promotion,In-Store Branch,228921.25,2026-05-16,2026-05-21,DIY PC Builders,Active
+CMP00783,New Intel & RTX Launch Expo #0783,Product Launch,Social Media,657950.99,2025-08-30,2025-09-17,Gamers & Creators,Active
+CMP00784,JIB Online Member Exclusive #0784,Brand Awareness,Line OA,104522.46,2025-07-18,2025-07-26,General Public,Active
+CMP00785,7.7 Mega Double Date #0785,Discount Promotion,Shopee / Lazada,278988.79,2025-08-17,2025-08-21,General Public,Completed
+CMP00786,Gaming Gear Festival #0786,Product Launch,In-Store Branch,175921.92,2026-03-05,2026-03-16,Gamers & Creators,Active
+CMP00787,Back to School Laptop Fair #0787,Seasonal Sale,Online Store,235947.85,2025-02-13,2025-03-09,Students & Education,Completed
+CMP00788,Corporate IT Solution Fair #0788,Brand Awareness,Social Media,112196.75,2025-04-27,2025-05-17,Corporate / Office,Active
+CMP00789,JIB Online Member Exclusive #0789,Brand Awareness,Line OA,142448.15,2025-08-03,2025-08-23,General Public,Upcoming
+CMP00790,Corporate IT Solution Fair #0790,Brand Awareness,Social Media,195252.46,2026-03-28,2026-04-07,Corporate / Office,Active
+CMP00791,JIB Super Sale Mid-Month #0791,Discount Promotion,Social Media,280091.01,2025-09-15,2025-10-06,General Public,Upcoming
+CMP00792,Corporate IT Solution Fair #0792,Brand Awareness,Social Media,289850.96,2025-03-17,2025-03-23,Corporate / Office,Completed
+CMP00793,7.7 Mega Double Date #0793,Discount Promotion,Shopee / Lazada,442538.22,2026-05-13,2026-05-22,General Public,Active
+CMP00794,New Intel & RTX Launch Expo #0794,Product Launch,Social Media,474157.3,2025-02-10,2025-03-06,Gamers & Creators,Cancelled
+CMP00795,7.7 Mega Double Date #0795,Discount Promotion,Shopee / Lazada,277365.91,2026-03-04,2026-03-26,General Public,Upcoming
+CMP00796,Back to School Laptop Fair #0796,Seasonal Sale,Online Store,289091.05,2025-02-14,2025-03-01,Students & Education,Completed
+CMP00797,DIY PC Builder Special Bonus #0797,Discount Promotion,In-Store Branch,330947.24,2025-09-24,2025-10-11,DIY PC Builders,Active
+CMP00798,Corporate IT Solution Fair #0798,Brand Awareness,Social Media,256337.13,2025-10-28,2025-11-16,Corporate / Office,Active
+CMP00799,7.7 Mega Double Date #0799,Discount Promotion,Shopee / Lazada,376380.24,2025-03-17,2025-04-07,General Public,Completed
+CMP00800,Back to School Laptop Fair #0800,Seasonal Sale,Online Store,290670.94,2026-04-19,2026-04-25,Students & Education,Active
+CMP00801,DIY PC Builder Special Bonus #0801,Discount Promotion,In-Store Branch,322431.23,2026-03-21,2026-04-10,DIY PC Builders,Upcoming
+CMP00802,DIY PC Builder Special Bonus #0802,Discount Promotion,In-Store Branch,231684.5,2025-07-16,2025-08-08,DIY PC Builders,Completed
+CMP00803,JIB Super Sale Mid-Month #0803,Discount Promotion,Social Media,180594.79,2025-03-30,2025-04-10,General Public,Completed
+CMP00804,New Intel & RTX Launch Expo #0804,Product Launch,Social Media,655829.69,2025-01-20,2025-02-04,Gamers & Creators,Active
+CMP00805,Gaming Gear Festival #0805,Product Launch,In-Store Branch,160787.09,2025-01-26,2025-02-21,Gamers & Creators,Active
+CMP00806,End of Year Tech Clearance #0806,Seasonal Sale,Online Store,536085.07,2025-01-11,2025-01-24,General Public,Active
+CMP00807,DIY PC Builder Special Bonus #0807,Discount Promotion,In-Store Branch,317394.0,2026-03-08,2026-03-26,DIY PC Builders,Completed
+CMP00808,Gaming Gear Festival #0808,Product Launch,In-Store Branch,245617.3,2025-03-10,2025-03-22,Gamers & Creators,Completed
+CMP00809,End of Year Tech Clearance #0809,Seasonal Sale,Online Store,395870.45,2025-05-18,2025-06-13,General Public,Completed
+CMP00810,Gaming Gear Festival #0810,Product Launch,In-Store Branch,235283.58,2025-08-15,2025-08-24,Gamers & Creators,Completed
+CMP00811,Flash Sale 24 Hours Midnight #0811,Flash Sale,Shopee / Lazada,136718.9,2026-01-24,2026-02-12,General Public,Upcoming
+CMP00812,JIB Online Member Exclusive #0812,Brand Awareness,Line OA,67874.04,2026-02-10,2026-02-18,General Public,Completed
+CMP00813,New Intel & RTX Launch Expo #0813,Product Launch,Social Media,640518.14,2025-03-11,2025-04-07,Gamers & Creators,Upcoming
+CMP00814,JIB Super Sale Mid-Month #0814,Discount Promotion,Social Media,275036.11,2025-03-30,2025-04-08,General Public,Active
+CMP00815,JIB Super Sale Mid-Month #0815,Discount Promotion,Social Media,191289.73,2025-05-08,2025-05-12,General Public,Upcoming
+CMP00816,Gaming Gear Festival #0816,Product Launch,In-Store Branch,219996.07,2025-05-21,2025-06-04,Gamers & Creators,Completed
+CMP00817,Back to School Laptop Fair #0817,Seasonal Sale,Online Store,210484.52,2025-12-15,2025-12-18,Students & Education,Completed
+CMP00818,Flash Sale 24 Hours Midnight #0818,Flash Sale,Shopee / Lazada,97458.23,2025-04-01,2025-05-01,General Public,Completed
+CMP00819,End of Year Tech Clearance #0819,Seasonal Sale,Online Store,563072.17,2025-03-25,2025-04-23,General Public,Completed
+CMP00820,Back to School Laptop Fair #0820,Seasonal Sale,Online Store,246641.42,2025-05-26,2025-05-29,Students & Education,Active
+CMP00821,Corporate IT Solution Fair #0821,Brand Awareness,Social Media,271422.24,2026-02-04,2026-02-13,Corporate / Office,Completed
+CMP00822,Gaming Gear Festival #0822,Product Launch,In-Store Branch,149616.22,2025-05-18,2025-06-10,Gamers & Creators,Active
+CMP00823,JIB Super Sale Mid-Month #0823,Discount Promotion,Social Media,229474.31,2025-08-31,2025-09-07,General Public,Completed
+CMP00824,JIB Super Sale Mid-Month #0824,Discount Promotion,Social Media,221668.78,2025-04-25,2025-05-06,General Public,Upcoming
+CMP00825,DIY PC Builder Special Bonus #0825,Discount Promotion,In-Store Branch,315864.82,2025-08-05,2025-08-20,DIY PC Builders,Completed
+CMP00826,Gaming Gear Festival #0826,Product Launch,In-Store Branch,195123.35,2025-08-27,2025-09-08,Gamers & Creators,Upcoming
+CMP00827,New Intel & RTX Launch Expo #0827,Product Launch,Social Media,302939.03,2025-10-27,2025-11-02,Gamers & Creators,Cancelled
+CMP00828,End of Year Tech Clearance #0828,Seasonal Sale,Online Store,457820.39,2025-10-15,2025-11-07,General Public,Active
+CMP00829,Back to School Laptop Fair #0829,Seasonal Sale,Online Store,234070.91,2025-09-04,2025-09-09,Students & Education,Active
+CMP00830,End of Year Tech Clearance #0830,Seasonal Sale,Online Store,341401.42,2026-03-18,2026-03-29,General Public,Completed
+CMP00831,DIY PC Builder Special Bonus #0831,Discount Promotion,In-Store Branch,238977.52,2025-04-07,2025-04-14,DIY PC Builders,Active
+CMP00832,JIB Super Sale Mid-Month #0832,Discount Promotion,Social Media,260472.75,2026-02-17,2026-03-19,General Public,Completed
+CMP00833,End of Year Tech Clearance #0833,Seasonal Sale,Online Store,502449.12,2025-12-15,2025-12-22,General Public,Completed
+CMP00834,DIY PC Builder Special Bonus #0834,Discount Promotion,In-Store Branch,213057.75,2025-05-13,2025-05-29,DIY PC Builders,Completed
+CMP00835,Corporate IT Solution Fair #0835,Brand Awareness,Social Media,263202.94,2025-12-29,2026-01-19,Corporate / Office,Active
+CMP00836,Gaming Gear Festival #0836,Product Launch,In-Store Branch,188513.31,2025-12-18,2026-01-07,Gamers & Creators,Completed
+CMP00837,End of Year Tech Clearance #0837,Seasonal Sale,Online Store,545896.74,2025-09-17,2025-09-29,General Public,Upcoming
+CMP00838,JIB Online Member Exclusive #0838,Brand Awareness,Line OA,71712.37,2025-04-03,2025-04-15,General Public,Active
+CMP00839,DIY PC Builder Special Bonus #0839,Discount Promotion,In-Store Branch,248577.28,2026-01-07,2026-02-04,DIY PC Builders,Upcoming
+CMP00840,End of Year Tech Clearance #0840,Seasonal Sale,Online Store,327788.73,2025-12-02,2025-12-07,General Public,Active
+CMP00841,DIY PC Builder Special Bonus #0841,Discount Promotion,In-Store Branch,323974.02,2025-08-04,2025-09-01,DIY PC Builders,Active
+CMP00842,Corporate IT Solution Fair #0842,Brand Awareness,Social Media,270242.78,2025-05-31,2025-06-17,Corporate / Office,Completed
+CMP00843,Corporate IT Solution Fair #0843,Brand Awareness,Social Media,114243.15,2025-10-25,2025-11-16,Corporate / Office,Upcoming
+CMP00844,JIB Online Member Exclusive #0844,Brand Awareness,Line OA,141683.73,2025-03-03,2025-04-02,General Public,Completed
+CMP00845,New Intel & RTX Launch Expo #0845,Product Launch,Social Media,641695.91,2025-01-28,2025-02-27,Gamers & Creators,Active
+CMP00846,Gaming Gear Festival #0846,Product Launch,In-Store Branch,247822.57,2025-06-25,2025-07-11,Gamers & Creators,Upcoming
+CMP00847,Flash Sale 24 Hours Midnight #0847,Flash Sale,Shopee / Lazada,136239.39,2025-03-15,2025-03-28,General Public,Active
+CMP00848,Back to School Laptop Fair #0848,Seasonal Sale,Online Store,307758.19,2025-09-07,2025-09-20,Students & Education,Active
+CMP00849,JIB Super Sale Mid-Month #0849,Discount Promotion,Social Media,154705.57,2025-01-03,2025-01-20,General Public,Completed
+CMP00850,7.7 Mega Double Date #0850,Discount Promotion,Shopee / Lazada,247530.54,2025-10-23,2025-11-19,General Public,Completed
+CMP00851,Back to School Laptop Fair #0851,Seasonal Sale,Online Store,258427.85,2025-03-08,2025-03-30,Students & Education,Completed
+CMP00852,New Intel & RTX Launch Expo #0852,Product Launch,Social Media,453326.57,2026-05-10,2026-05-28,Gamers & Creators,Active
+CMP00853,Gaming Gear Festival #0853,Product Launch,In-Store Branch,241511.66,2026-01-10,2026-01-24,Gamers & Creators,Upcoming
+CMP00854,JIB Online Member Exclusive #0854,Brand Awareness,Line OA,141209.78,2025-04-08,2025-04-11,General Public,Completed
+CMP00855,Gaming Gear Festival #0855,Product Launch,In-Store Branch,229087.47,2025-04-26,2025-05-21,Gamers & Creators,Active
+CMP00856,Back to School Laptop Fair #0856,Seasonal Sale,Online Store,297167.67,2025-07-16,2025-08-04,Students & Education,Active
+CMP00857,JIB Super Sale Mid-Month #0857,Discount Promotion,Social Media,191185.26,2025-06-02,2025-06-14,General Public,Completed
+CMP00858,JIB Online Member Exclusive #0858,Brand Awareness,Line OA,166556.89,2025-06-22,2025-07-08,General Public,Cancelled
+CMP00859,End of Year Tech Clearance #0859,Seasonal Sale,Online Store,375737.81,2026-04-07,2026-04-25,General Public,Active
+CMP00860,New Intel & RTX Launch Expo #0860,Product Launch,Social Media,389728.55,2025-01-10,2025-01-20,Gamers & Creators,Cancelled
+CMP00861,Gaming Gear Festival #0861,Product Launch,In-Store Branch,180247.78,2026-01-11,2026-01-14,Gamers & Creators,Active
+CMP00862,End of Year Tech Clearance #0862,Seasonal Sale,Online Store,527244.5,2025-12-31,2026-01-23,General Public,Active
+CMP00863,DIY PC Builder Special Bonus #0863,Discount Promotion,In-Store Branch,263321.0,2026-01-30,2026-02-19,DIY PC Builders,Completed
+CMP00864,JIB Super Sale Mid-Month #0864,Discount Promotion,Social Media,230713.52,2025-12-05,2025-12-11,General Public,Active
+CMP00865,Back to School Laptop Fair #0865,Seasonal Sale,Online Store,245063.44,2025-08-02,2025-08-19,Students & Education,Completed
+CMP00866,Flash Sale 24 Hours Midnight #0866,Flash Sale,Shopee / Lazada,70549.49,2025-12-26,2026-01-02,General Public,Completed
+CMP00867,JIB Super Sale Mid-Month #0867,Discount Promotion,Social Media,232332.92,2025-06-04,2025-06-20,General Public,Completed
+CMP00868,DIY PC Builder Special Bonus #0868,Discount Promotion,In-Store Branch,281167.06,2025-11-15,2025-12-07,DIY PC Builders,Completed
+CMP00869,Back to School Laptop Fair #0869,Seasonal Sale,Online Store,304424.49,2025-09-19,2025-10-15,Students & Education,Active
+CMP00870,Back to School Laptop Fair #0870,Seasonal Sale,Online Store,302250.45,2025-09-12,2025-09-21,Students & Education,Completed
+CMP00871,JIB Online Member Exclusive #0871,Brand Awareness,Line OA,102950.62,2026-05-14,2026-05-23,General Public,Completed
+CMP00872,7.7 Mega Double Date #0872,Discount Promotion,Shopee / Lazada,348906.41,2025-01-21,2025-02-10,General Public,Active
+CMP00873,Flash Sale 24 Hours Midnight #0873,Flash Sale,Shopee / Lazada,50273.8,2025-06-19,2025-06-29,General Public,Completed
+CMP00874,Back to School Laptop Fair #0874,Seasonal Sale,Online Store,317255.48,2026-03-04,2026-03-25,Students & Education,Active
+CMP00875,Back to School Laptop Fair #0875,Seasonal Sale,Online Store,168762.05,2026-02-04,2026-02-23,Students & Education,Completed
+CMP00876,DIY PC Builder Special Bonus #0876,Discount Promotion,In-Store Branch,225052.78,2025-11-26,2025-12-06,DIY PC Builders,Cancelled
+CMP00877,DIY PC Builder Special Bonus #0877,Discount Promotion,In-Store Branch,142956.05,2025-08-26,2025-08-30,DIY PC Builders,Active
+CMP00878,JIB Super Sale Mid-Month #0878,Discount Promotion,Social Media,172042.93,2026-03-13,2026-03-25,General Public,Completed
+CMP00879,New Intel & RTX Launch Expo #0879,Product Launch,Social Media,337999.39,2026-01-14,2026-01-20,Gamers & Creators,Completed
+CMP00880,JIB Super Sale Mid-Month #0880,Discount Promotion,Social Media,127678.89,2025-01-05,2025-02-04,General Public,Completed
+CMP00881,End of Year Tech Clearance #0881,Seasonal Sale,Online Store,584281.2,2025-07-03,2025-07-20,General Public,Active
+CMP00882,Back to School Laptop Fair #0882,Seasonal Sale,Online Store,235680.68,2025-07-10,2025-08-08,Students & Education,Active
+CMP00883,New Intel & RTX Launch Expo #0883,Product Launch,Social Media,408733.24,2026-05-08,2026-05-25,Gamers & Creators,Active
+CMP00884,Flash Sale 24 Hours Midnight #0884,Flash Sale,Shopee / Lazada,114884.65,2026-02-14,2026-03-02,General Public,Completed
+CMP00885,Back to School Laptop Fair #0885,Seasonal Sale,Online Store,331602.78,2025-03-09,2025-04-03,Students & Education,Cancelled
+CMP00886,7.7 Mega Double Date #0886,Discount Promotion,Shopee / Lazada,473368.03,2025-02-23,2025-03-11,General Public,Completed
+CMP00887,Corporate IT Solution Fair #0887,Brand Awareness,Social Media,136252.11,2025-12-14,2025-12-31,Corporate / Office,Active
+CMP00888,End of Year Tech Clearance #0888,Seasonal Sale,Online Store,551901.52,2025-11-10,2025-11-13,General Public,Upcoming
+CMP00889,7.7 Mega Double Date #0889,Discount Promotion,Shopee / Lazada,233881.24,2025-09-05,2025-09-23,General Public,Completed
+CMP00890,JIB Super Sale Mid-Month #0890,Discount Promotion,Social Media,230994.71,2025-02-02,2025-02-13,General Public,Active
+CMP00891,JIB Online Member Exclusive #0891,Brand Awareness,Line OA,129197.88,2026-01-28,2026-02-23,General Public,Completed
+CMP00892,End of Year Tech Clearance #0892,Seasonal Sale,Online Store,490884.58,2025-09-23,2025-10-12,General Public,Completed
+CMP00893,New Intel & RTX Launch Expo #0893,Product Launch,Social Media,399430.8,2025-12-05,2025-12-31,Gamers & Creators,Active
+CMP00894,New Intel & RTX Launch Expo #0894,Product Launch,Social Media,630575.13,2025-03-18,2025-04-16,Gamers & Creators,Upcoming
+CMP00895,Corporate IT Solution Fair #0895,Brand Awareness,Social Media,228679.74,2025-01-28,2025-01-31,Corporate / Office,Active
+CMP00896,Flash Sale 24 Hours Midnight #0896,Flash Sale,Shopee / Lazada,136941.56,2026-03-13,2026-03-31,General Public,Active
+CMP00897,Flash Sale 24 Hours Midnight #0897,Flash Sale,Shopee / Lazada,83089.48,2025-06-14,2025-06-24,General Public,Active
+CMP00898,JIB Online Member Exclusive #0898,Brand Awareness,Line OA,137198.08,2025-04-25,2025-05-15,General Public,Completed
+CMP00899,Gaming Gear Festival #0899,Product Launch,In-Store Branch,155512.11,2025-02-10,2025-02-27,Gamers & Creators,Completed
+CMP00900,Back to School Laptop Fair #0900,Seasonal Sale,Online Store,261767.03,2026-03-15,2026-04-02,Students & Education,Active
+CMP00901,Flash Sale 24 Hours Midnight #0901,Flash Sale,Shopee / Lazada,51776.91,2026-01-17,2026-02-09,General Public,Completed
+CMP00902,JIB Super Sale Mid-Month #0902,Discount Promotion,Social Media,100033.94,2025-10-13,2025-11-02,General Public,Active
+CMP00903,Corporate IT Solution Fair #0903,Brand Awareness,Social Media,227507.62,2026-05-09,2026-05-31,Corporate / Office,Upcoming
+CMP00904,JIB Online Member Exclusive #0904,Brand Awareness,Line OA,140576.92,2025-04-16,2025-05-09,General Public,Cancelled
+CMP00905,End of Year Tech Clearance #0905,Seasonal Sale,Online Store,535806.04,2026-02-27,2026-03-03,General Public,Upcoming
+CMP00906,End of Year Tech Clearance #0906,Seasonal Sale,Online Store,466915.29,2025-10-14,2025-11-10,General Public,Completed
+CMP00907,End of Year Tech Clearance #0907,Seasonal Sale,Online Store,289908.18,2026-01-02,2026-01-19,General Public,Completed
+CMP00908,Gaming Gear Festival #0908,Product Launch,In-Store Branch,140373.63,2025-01-02,2025-01-15,Gamers & Creators,Completed
+CMP00909,DIY PC Builder Special Bonus #0909,Discount Promotion,In-Store Branch,205994.78,2025-10-08,2025-10-27,DIY PC Builders,Active
+CMP00910,7.7 Mega Double Date #0910,Discount Promotion,Shopee / Lazada,446551.6,2025-09-10,2025-09-17,General Public,Completed
+CMP00911,New Intel & RTX Launch Expo #0911,Product Launch,Social Media,544340.71,2025-02-24,2025-03-07,Gamers & Creators,Active
+CMP00912,New Intel & RTX Launch Expo #0912,Product Launch,Social Media,629821.66,2025-04-21,2025-05-08,Gamers & Creators,Active
+CMP00913,End of Year Tech Clearance #0913,Seasonal Sale,Online Store,395064.62,2025-02-25,2025-03-24,General Public,Upcoming
+CMP00914,Corporate IT Solution Fair #0914,Brand Awareness,Social Media,278350.87,2025-03-05,2025-04-01,Corporate / Office,Completed
+CMP00915,Corporate IT Solution Fair #0915,Brand Awareness,Social Media,126927.2,2026-05-05,2026-05-24,Corporate / Office,Completed
+CMP00916,JIB Online Member Exclusive #0916,Brand Awareness,Line OA,126387.16,2026-01-12,2026-01-16,General Public,Completed
+CMP00917,Corporate IT Solution Fair #0917,Brand Awareness,Social Media,256216.3,2025-09-05,2025-09-24,Corporate / Office,Upcoming
+CMP00918,Corporate IT Solution Fair #0918,Brand Awareness,Social Media,263048.83,2025-03-30,2025-04-25,Corporate / Office,Active
+CMP00919,Corporate IT Solution Fair #0919,Brand Awareness,Social Media,200822.02,2025-11-07,2025-11-20,Corporate / Office,Active
+CMP00920,Corporate IT Solution Fair #0920,Brand Awareness,Social Media,252474.93,2026-04-14,2026-05-09,Corporate / Office,Active
+CMP00921,End of Year Tech Clearance #0921,Seasonal Sale,Online Store,408496.0,2026-05-12,2026-05-24,General Public,Active
+CMP00922,New Intel & RTX Launch Expo #0922,Product Launch,Social Media,654574.74,2025-11-05,2025-11-30,Gamers & Creators,Completed
+CMP00923,JIB Online Member Exclusive #0923,Brand Awareness,Line OA,145424.92,2026-03-17,2026-03-30,General Public,Upcoming
+CMP00924,Gaming Gear Festival #0924,Product Launch,In-Store Branch,186108.49,2025-04-13,2025-04-22,Gamers & Creators,Active
+CMP00925,End of Year Tech Clearance #0925,Seasonal Sale,Online Store,296435.11,2026-04-17,2026-05-11,General Public,Completed
+CMP00926,7.7 Mega Double Date #0926,Discount Promotion,Shopee / Lazada,408293.59,2025-09-15,2025-10-05,General Public,Active
+CMP00927,Back to School Laptop Fair #0927,Seasonal Sale,Online Store,290570.05,2026-01-25,2026-02-08,Students & Education,Completed
+CMP00928,New Intel & RTX Launch Expo #0928,Product Launch,Social Media,657546.4,2025-12-12,2026-01-07,Gamers & Creators,Completed
+CMP00929,New Intel & RTX Launch Expo #0929,Product Launch,Social Media,509091.99,2026-02-18,2026-02-21,Gamers & Creators,Active
+CMP00930,7.7 Mega Double Date #0930,Discount Promotion,Shopee / Lazada,216981.43,2025-01-28,2025-02-21,General Public,Active
+CMP00931,7.7 Mega Double Date #0931,Discount Promotion,Shopee / Lazada,275168.3,2025-05-27,2025-06-20,General Public,Upcoming
+CMP00932,DIY PC Builder Special Bonus #0932,Discount Promotion,In-Store Branch,244469.58,2025-04-15,2025-05-12,DIY PC Builders,Active
+CMP00933,Flash Sale 24 Hours Midnight #0933,Flash Sale,Shopee / Lazada,136803.54,2025-02-22,2025-03-16,General Public,Completed
+CMP00934,Gaming Gear Festival #0934,Product Launch,In-Store Branch,175415.99,2026-01-16,2026-02-08,Gamers & Creators,Active
+CMP00935,DIY PC Builder Special Bonus #0935,Discount Promotion,In-Store Branch,130805.37,2025-12-21,2026-01-14,DIY PC Builders,Active
+CMP00936,New Intel & RTX Launch Expo #0936,Product Launch,Social Media,690329.09,2026-05-05,2026-06-02,Gamers & Creators,Active
+CMP00937,JIB Online Member Exclusive #0937,Brand Awareness,Line OA,149240.4,2025-01-28,2025-01-31,General Public,Active
+CMP00938,Flash Sale 24 Hours Midnight #0938,Flash Sale,Shopee / Lazada,141148.64,2026-03-01,2026-03-11,General Public,Completed
+CMP00939,End of Year Tech Clearance #0939,Seasonal Sale,Online Store,441315.3,2026-01-22,2026-02-12,General Public,Completed
+CMP00940,Gaming Gear Festival #0940,Product Launch,In-Store Branch,110162.4,2025-05-31,2025-06-17,Gamers & Creators,Completed
+CMP00941,7.7 Mega Double Date #0941,Discount Promotion,Shopee / Lazada,420523.85,2026-05-08,2026-05-16,General Public,Active
+CMP00942,JIB Super Sale Mid-Month #0942,Discount Promotion,Social Media,211319.72,2025-08-08,2025-08-19,General Public,Active
+CMP00943,Corporate IT Solution Fair #0943,Brand Awareness,Social Media,101129.03,2026-03-10,2026-03-21,Corporate / Office,Completed
+CMP00944,7.7 Mega Double Date #0944,Discount Promotion,Shopee / Lazada,478588.47,2025-01-21,2025-01-28,General Public,Completed
+CMP00945,Corporate IT Solution Fair #0945,Brand Awareness,Social Media,160230.96,2026-03-08,2026-04-01,Corporate / Office,Completed
+CMP00946,JIB Online Member Exclusive #0946,Brand Awareness,Line OA,154083.77,2025-07-03,2025-07-08,General Public,Active
+CMP00947,Gaming Gear Festival #0947,Product Launch,In-Store Branch,168503.07,2026-05-05,2026-05-13,Gamers & Creators,Completed
+CMP00948,7.7 Mega Double Date #0948,Discount Promotion,Shopee / Lazada,361110.79,2025-08-01,2025-08-21,General Public,Active
+CMP00949,Gaming Gear Festival #0949,Product Launch,In-Store Branch,192766.86,2026-03-29,2026-04-07,Gamers & Creators,Active
+CMP00950,DIY PC Builder Special Bonus #0950,Discount Promotion,In-Store Branch,262204.54,2025-04-22,2025-05-19,DIY PC Builders,Completed
+CMP00951,JIB Online Member Exclusive #0951,Brand Awareness,Line OA,177735.98,2026-02-26,2026-03-25,General Public,Active
+CMP00952,End of Year Tech Clearance #0952,Seasonal Sale,Online Store,566573.76,2025-08-17,2025-08-27,General Public,Completed
+CMP00953,Corporate IT Solution Fair #0953,Brand Awareness,Social Media,236510.27,2025-05-05,2025-05-09,Corporate / Office,Active
+CMP00954,Back to School Laptop Fair #0954,Seasonal Sale,Online Store,285059.33,2025-07-17,2025-07-28,Students & Education,Active
+CMP00955,JIB Online Member Exclusive #0955,Brand Awareness,Line OA,104994.97,2026-02-25,2026-03-24,General Public,Upcoming
+CMP00956,Flash Sale 24 Hours Midnight #0956,Flash Sale,Shopee / Lazada,79643.4,2025-09-07,2025-09-11,General Public,Completed
+CMP00957,End of Year Tech Clearance #0957,Seasonal Sale,Online Store,581874.14,2025-09-21,2025-09-26,General Public,Active
+CMP00958,JIB Online Member Exclusive #0958,Brand Awareness,Line OA,135231.97,2025-10-01,2025-10-04,General Public,Active
+CMP00959,Gaming Gear Festival #0959,Product Launch,In-Store Branch,152115.61,2026-03-19,2026-04-12,Gamers & Creators,Active
+CMP00960,JIB Online Member Exclusive #0960,Brand Awareness,Line OA,165436.47,2026-03-01,2026-03-26,General Public,Completed
+CMP00961,New Intel & RTX Launch Expo #0961,Product Launch,Social Media,675900.44,2025-11-28,2025-12-27,Gamers & Creators,Completed
+CMP00962,7.7 Mega Double Date #0962,Discount Promotion,Shopee / Lazada,415060.49,2025-01-13,2025-01-30,General Public,Active
+CMP00963,Back to School Laptop Fair #0963,Seasonal Sale,Online Store,348553.7,2025-01-28,2025-02-05,Students & Education,Completed
+CMP00964,Corporate IT Solution Fair #0964,Brand Awareness,Social Media,282197.31,2026-02-25,2026-03-07,Corporate / Office,Completed
+CMP00965,Flash Sale 24 Hours Midnight #0965,Flash Sale,Shopee / Lazada,93302.5,2025-11-19,2025-12-04,General Public,Active
+CMP00966,Back to School Laptop Fair #0966,Seasonal Sale,Online Store,310355.69,2025-10-01,2025-10-04,Students & Education,Completed
+CMP00967,Corporate IT Solution Fair #0967,Brand Awareness,Social Media,269650.25,2025-01-24,2025-02-18,Corporate / Office,Active
+CMP00968,JIB Online Member Exclusive #0968,Brand Awareness,Line OA,154427.03,2025-02-24,2025-03-08,General Public,Active
+CMP00969,Back to School Laptop Fair #0969,Seasonal Sale,Online Store,381672.72,2025-05-25,2025-06-21,Students & Education,Active
+CMP00970,JIB Super Sale Mid-Month #0970,Discount Promotion,Social Media,206693.55,2025-08-31,2025-09-08,General Public,Active
+CMP00971,New Intel & RTX Launch Expo #0971,Product Launch,Social Media,639786.98,2026-02-12,2026-03-12,Gamers & Creators,Active
+CMP00972,7.7 Mega Double Date #0972,Discount Promotion,Shopee / Lazada,466093.44,2025-06-02,2025-06-26,General Public,Cancelled
+CMP00973,End of Year Tech Clearance #0973,Seasonal Sale,Online Store,443733.47,2026-05-06,2026-05-09,General Public,Completed
+CMP00974,Back to School Laptop Fair #0974,Seasonal Sale,Online Store,293179.65,2025-01-22,2025-01-25,Students & Education,Active
+CMP00975,JIB Online Member Exclusive #0975,Brand Awareness,Line OA,96562.94,2026-04-30,2026-05-05,General Public,Completed
+CMP00976,End of Year Tech Clearance #0976,Seasonal Sale,Online Store,566969.81,2025-04-19,2025-05-05,General Public,Upcoming
+CMP00977,7.7 Mega Double Date #0977,Discount Promotion,Shopee / Lazada,266236.39,2025-03-24,2025-04-01,General Public,Upcoming
+CMP00978,Gaming Gear Festival #0978,Product Launch,In-Store Branch,194066.24,2025-02-28,2025-03-08,Gamers & Creators,Completed
+CMP00979,JIB Super Sale Mid-Month #0979,Discount Promotion,Social Media,286473.97,2026-03-12,2026-04-08,General Public,Cancelled
+CMP00980,Flash Sale 24 Hours Midnight #0980,Flash Sale,Shopee / Lazada,57314.46,2025-11-27,2025-12-17,General Public,Completed
+CMP00981,DIY PC Builder Special Bonus #0981,Discount Promotion,In-Store Branch,286885.53,2025-02-20,2025-03-01,DIY PC Builders,Completed
+CMP00982,End of Year Tech Clearance #0982,Seasonal Sale,Online Store,484953.45,2025-07-02,2025-07-09,General Public,Active
+CMP00983,DIY PC Builder Special Bonus #0983,Discount Promotion,In-Store Branch,327027.28,2025-11-14,2025-11-19,DIY PC Builders,Active
+CMP00984,Flash Sale 24 Hours Midnight #0984,Flash Sale,Shopee / Lazada,115942.23,2025-06-18,2025-07-10,General Public,Completed
+CMP00985,7.7 Mega Double Date #0985,Discount Promotion,Shopee / Lazada,309348.03,2025-10-17,2025-11-07,General Public,Active
+CMP00986,New Intel & RTX Launch Expo #0986,Product Launch,Social Media,425285.91,2025-03-28,2025-03-31,Gamers & Creators,Completed
+CMP00987,New Intel & RTX Launch Expo #0987,Product Launch,Social Media,443794.4,2025-05-22,2025-06-20,Gamers & Creators,Completed
+CMP00988,End of Year Tech Clearance #0988,Seasonal Sale,Online Store,411996.93,2026-03-26,2026-04-13,General Public,Active
+CMP00989,DIY PC Builder Special Bonus #0989,Discount Promotion,In-Store Branch,145031.51,2025-09-07,2025-09-27,DIY PC Builders,Completed
+CMP00990,Back to School Laptop Fair #0990,Seasonal Sale,Online Store,364678.41,2026-03-07,2026-03-18,Students & Education,Active
+CMP00991,JIB Online Member Exclusive #0991,Brand Awareness,Line OA,148025.35,2025-04-11,2025-04-22,General Public,Completed
+CMP00992,Back to School Laptop Fair #0992,Seasonal Sale,Online Store,362396.82,2026-04-02,2026-04-05,Students & Education,Completed
+CMP00993,Corporate IT Solution Fair #0993,Brand Awareness,Social Media,253840.05,2025-10-24,2025-11-08,Corporate / Office,Active
+CMP00994,JIB Super Sale Mid-Month #0994,Discount Promotion,Social Media,208693.86,2025-10-10,2025-10-21,General Public,Cancelled
+CMP00995,Flash Sale 24 Hours Midnight #0995,Flash Sale,Shopee / Lazada,64863.3,2025-12-01,2025-12-28,General Public,Active
+CMP00996,Corporate IT Solution Fair #0996,Brand Awareness,Social Media,158199.83,2026-01-11,2026-02-10,Corporate / Office,Completed
+CMP00997,JIB Online Member Exclusive #0997,Brand Awareness,Line OA,103663.87,2025-02-16,2025-03-03,General Public,Active
+CMP00998,Gaming Gear Festival #0998,Product Launch,In-Store Branch,246915.04,2026-03-11,2026-04-08,Gamers & Creators,Completed
+CMP00999,JIB Online Member Exclusive #0999,Brand Awareness,Line OA,79106.69,2025-03-13,2025-03-30,General Public,Completed
+CMP01000,Corporate IT Solution Fair #1000,Brand Awareness,Social Media,293547.11,2025-12-04,2026-01-03,Corporate / Office,Completed

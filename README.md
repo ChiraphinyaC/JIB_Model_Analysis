@@ -61,3 +61,4 @@ JIB_Model_Analysis/
 ├── campaign_budget_model.pkl   # ไฟล์โมเดล Pipeline ที่ผ่านการเทรน
 ├── requirements.txt            # รายการไลบรารีที่จำเป็น
 └── README.md                   # เอกสารอธิบายรายละเอียดโปรเจกต์
+ลิงก์หน้าเว็ป https://jibmodelanalysis.streamlit.app/
